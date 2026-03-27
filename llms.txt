@@ -1,17 +1,17 @@
 # reaffirmationagreement.org
 
-> Reaffirmation Agreements | reaffirmationagreement.org
+> Guide to reaffirmation agreements in bankruptcy -- keeping property by agreeing to continue paying.
 
-Understanding 11 U.S.C. Section 524(c) -- keeping secured debt through bankruptcy
+reaffirmationagreement.org is a free, open-source educational resource about reaffirmation agreements in Chapter 7 bankruptcy. Part of the Bankruptcy Transparency Network.
 
-This site is part of the Bankruptcy Transparency Network -- free, open-source bankruptcy information based on national federal court data.
+## Pages
 
-## Related Sites
-- https://1328f.com -- Free bankruptcy discharge screener
-- https://1328f.org -- Research platform
-- https://bankruptcymill.org -- Bankruptcy mill detection
-- https://serialfiler.org -- Serial filing restrictions
-- https://dischargebar.org -- Discharge waiting periods
+- https://reaffirmationagreement.org/: Overview of reaffirmation agreements -- what they are and when they make sense
+- https://reaffirmationagreement.org/car-reaffirmation.html: Car reaffirmation -- keeping your vehicle in Chapter 7
+- https://reaffirmationagreement.org/mortgage-reaffirmation.html: Mortgage reaffirmation -- keeping your home
+- https://reaffirmationagreement.org/risks.html: Risks of reaffirmation -- why judges sometimes refuse to approve them
+- https://reaffirmationagreement.org/rescission.html: Rescission -- canceling a reaffirmation agreement within 60 days
 
 ## Contact
-- Ko-fi: https://ko-fi.com/ilikemath9999
+
+This site is maintained by volunteers. No legal advice is provided.
