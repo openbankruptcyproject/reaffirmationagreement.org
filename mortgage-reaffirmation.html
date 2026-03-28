@@ -173,21 +173,18 @@ footer .links a { margin: 0 0.75rem; }
   <h1><a href="/" style="color: #f0f6fc; text-decoration: none;"><span class="accent">Reaffirmation</span>Agreement.com</a></h1>
   <p class="subtitle">Understand Before You Sign</p>
 </header>
-<nav id="site-nav" aria-label="Site navigation">
-  <button class="nav-toggle" aria-expanded="false" aria-controls="nav-links" aria-label="Toggle navigation menu">&#9776; Menu</button>
-  <div class="nav-links" id="nav-links">
-    <a href="/">Reaffirmation Guide</a>
-    <span class="sep">|</span>
+<nav role="navigation" aria-label="Site navigation">
+  <a href="/" class="site-name">reaffirmationagreement.org</a>
+  <button class="hamburger" aria-label="Toggle navigation menu" aria-expanded="false" onclick="var n=this.nextElementSibling;var open=n.classList.toggle('open');this.setAttribute('aria-expanded',open);">&#9776;</button>
+  <div class="nav-links">
+    <a href="/">Home</a>
     <a href="/car-reaffirmation.html">Car Loans</a>
-    <span class="sep">|</span>
-    <a href="/mortgage-reaffirmation.html">Mortgages</a>
-    <span class="sep">|</span>
+    <a href="/mortgage-reaffirmation.html" class="active">Mortgages</a>
     <a href="/risks.html">Risks</a>
-    <span class="sep">|</span>
     <a href="/rescission.html">Rescission</a>
+    <a href="/ride-through.html">Ride-Through</a>
   </div>
 </nav>
-<script>document.addEventListener('DOMContentLoaded',function(){var b=document.querySelector('.nav-toggle');if(b)b.addEventListener('click',function(){var l=document.querySelector('.nav-links');l.classList.toggle('open');b.setAttribute('aria-expanded',l.classList.contains('open'))})});</script>
 
 <main id="main">
   <div class="breadcrumb" aria-label="Breadcrumb">
