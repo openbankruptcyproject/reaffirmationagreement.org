@@ -1,17 +1,25 @@
-# reaffirmationagreement.org
+# Reaffirmation Agreement -- Keep Property in Ch. 7 [2026]
+> Should you sign a reaffirmation agreement in Chapter 7? Risks, benefits, and alternatives for keeping your car or house. 2026 guide.
 
-> Guide to reaffirmation agreements in bankruptcy -- keeping property by agreeing to continue paying.
+## About
+reaffirmationagreement.org is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
-reaffirmationagreement.org is a free, open-source educational resource about reaffirmation agreements in Chapter 7 bankruptcy. Part of the Open Bankruptcy Project.
-
-## Pages
-
-- https://reaffirmationagreement.org/: Overview of reaffirmation agreements -- what they are and when they make sense
-- https://reaffirmationagreement.org/car-reaffirmation.html: Car reaffirmation -- keeping your vehicle in Chapter 7
-- https://reaffirmationagreement.org/mortgage-reaffirmation.html: Mortgage reaffirmation -- keeping your home
-- https://reaffirmationagreement.org/risks.html: Risks of reaffirmation -- why judges sometimes refuse to approve them
-- https://reaffirmationagreement.org/rescission.html: Rescission -- canceling a reaffirmation agreement within 60 days
+## Key Pages
+- Reaffirming Your Car Loan in Chapter 7 Bankruptcy: https://reaffirmationagreement.org/car-reaffirmation.html
+- Reaffirmation Agreement Deadline -- When Must You File?: https://reaffirmationagreement.org/deadline.html
+- Reaffirmation Agreement -- Keep Property in Ch. 7: https://reaffirmationagreement.org/
+- Judge Denied Your Reaffirmation Agreement -- What Happens Now?: https://reaffirmationagreement.org/judge-denied.html
+- Mortgage Reaffirmation: Do You Need to Reaffirm Your Home Loan?: https://reaffirmationagreement.org/mortgage-reaffirmation.html
+- Changed Your Mind? How to Rescind a Reaffirmation Agreement: https://reaffirmationagreement.org/rescission.html
+- Ride-Through vs Reaffirmation vs Redemption -- Your Options: https://reaffirmationagreement.org/ride-through.html
+- The Risks of Reaffirmation: What Your Creditor Won't Tell You: https://reaffirmationagreement.org/risks.html
+- When to Say No to Reaffirmation -- Protecting Yourself: https://reaffirmationagreement.org/when-to-say-no.html
+- Reaffirmation Without an Attorney -- Pro Se Requirements: https://reaffirmationagreement.org/without-attorney.html
 
 ## Contact
+- Website: https://openbankruptcyproject.org
+- Email: contact@openbankruptcyproject.org
+- GitHub: https://github.com/openbankruptcyproject
 
-This site is maintained by volunteers. No legal advice is provided.
+## License
+Content is provided for educational purposes. Data sourced from the Federal Judicial Center Integrated Database (4.9M cases, 94 districts).
