@@ -37,7 +37,7 @@ When you file Chapter 7, you must indicate on your Statement of Intention (Offic
 
 If you choose to reaffirm, the process works like this:
 
-The lender sends you a reaffirmation agreement -- typically through your bankruptcy attorney.
+The lender sends you a reaffirmation agreement - typically through your bankruptcy attorney.
 
 The agreement restates the original loan terms: the balance owed, the interest rate, the monthly payment, and the remaining term.
 
@@ -51,7 +51,7 @@ You continue making payments. The debt survives your discharge as if bankruptcy 
 
 Why Lenders Push for Reaffirmation
 
-From the lender's perspective, reaffirmation is extremely valuable. Without it, they hold a lien on a depreciating asset (your car) and have no personal recourse against you. If you stop paying in two years, they can repossess the car, but they cannot pursue you for the deficiency -- the difference between what you owe and what the car sells for at auction.
+From the lender's perspective, reaffirmation is extremely valuable. Without it, they hold a lien on a depreciating asset (your car) and have no personal recourse against you. If you stop paying in two years, they can repossess the car, but they cannot pursue you for the deficiency - the difference between what you owe and what the car sells for at auction.
 
 With reaffirmation, the lender gets the best of both worlds: the collateral and your personal guarantee. If you default, they can repossess and sue you for the remaining balance. This is why lenders are so eager for you to sign.
 
@@ -59,7 +59,7 @@ The Risks for Car Loan Reaffirmation
 
 Common scenario: You reaffirm a $15,000 car loan. Two years later, you lose your job and cannot make payments. The lender repossesses the car and sells it at auction for $6,000. You now owe $9,000 with no car and no ability to discharge that debt in Chapter 7 for another six years. Without reaffirmation, that $9,000 deficiency would have been eliminated by your discharge.
 
-Cars depreciate. Rapidly. The moment you drive off the lot, most vehicles are worth less than the loan balance. When you reaffirm, you lock yourself into paying the full loan amount -- not the car's current value. If something goes wrong (job loss, medical emergency, major repair bill), you could end up owing thousands on a car you no longer have.
+Cars depreciate. Rapidly. The moment you drive off the lot, most vehicles are worth less than the loan balance. When you reaffirm, you lock yourself into paying the full loan amount - not the car's current value. If something goes wrong (job loss, medical emergency, major repair bill), you could end up owing thousands on a car you no longer have.
 
 Read the full risks of reaffirmation guide for more detail.
 
@@ -69,13 +69,13 @@ Redemption Under Section 722
 
 Section 722 of the Bankruptcy Code allows you to redeem personal property by paying the creditor the current fair market value of the property in a single lump-sum payment. If your car is worth $8,000 but you owe $14,000, you can keep the car by paying $8,000 and the remaining $6,000 is discharged.
 
-The challenge is coming up with the lump sum. Some companies specialize in redemption financing -- they lend you the money to redeem the vehicle at its current value, then you make payments on the smaller loan. The interest rates are typically higher than traditional auto loans, but the total amount financed is lower.
+The challenge is coming up with the lump sum. Some companies specialize in redemption financing - they lend you the money to redeem the vehicle at its current value, then you make payments on the smaller loan. The interest rates are typically higher than traditional auto loans, but the total amount financed is lower.
 
 When redemption wins: If you owe significantly more than the car is worth (you are "upside down" on the loan), redemption can save you thousands compared to reaffirmation. Run the numbers before deciding.
 
 Surrender
 
-If the car is not worth keeping -- if it is unreliable, if the payments are too high, or if you can find alternative transportation -- you can surrender the vehicle. The lender gets the car back, and any remaining balance is discharged. You walk away with no car but also no debt.
+If the car is not worth keeping - if it is unreliable, if the payments are too high, or if you can find alternative transportation - you can surrender the vehicle. The lender gets the car back, and any remaining balance is discharged. You walk away with no car but also no debt.
 
 Surrender is often the best financial decision, even though it feels like a loss. A fresh start without a burdensome car payment may be more valuable than keeping a vehicle you cannot truly afford.
 
@@ -91,7 +91,7 @@ What to Consider Before Signing
 
 Before you sign a car loan reaffirmation agreement, ask yourself these questions:
 
-Can I comfortably afford the payments? Not just today -- for the remaining term of the loan. If the payment is a stretch, reaffirmation may set you up for failure.
+Can I comfortably afford the payments? Not just today - for the remaining term of the loan. If the payment is a stretch, reaffirmation may set you up for failure.
 
 Is the car worth what I owe? Check the fair market value on sites like Kelley Blue Book or NADA Guides. If you are significantly upside down, consider redemption instead.
 
@@ -163,10 +163,10 @@ Further Reading & Resources
 Authority sources for deeper research on liens and reaffirmation agreements:
 
 11 U.S.C. Section 522(f)
-Cornell LII -- lien avoidance
+Cornell LII - lien avoidance
 
 11 U.S.C. Section 524(c)
-Cornell LII -- reaffirmation
+Cornell LII - reaffirmation
 
 Reaffirmation Agreement Form
 USCourts.gov Form B 240A
@@ -211,7 +211,7 @@ whatischapter7.com →
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-ReaffirmationAgreement.com -- Part of the Open Bankruptcy Project.
+ReaffirmationAgreement.com - Part of the Open Bankruptcy Project.
 
 Home
 Car Loans
@@ -256,7 +256,7 @@ Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
 ---
 
-## Reaffirmation Agreement Deadline -- When Must You File?
+## Reaffirmation Agreement Deadline - When Must You File?
 Source: https://reaffirmationagreement.org/deadline.html
 
 Skip to main content
@@ -273,15 +273,15 @@ Ride-Through
 
 Reaffirmation Agreement Deadline
 
-When you must file -- and what happens if you miss the window
+When you must file - and what happens if you miss the window
 
 Home › Reaffirmation Deadline
 
 The Hard Deadline: Before Discharge
 
-Section 524(c)(1) of the Bankruptcy Code is clear: a reaffirmation agreement must be "made before the granting of the discharge." This is not a flexible guideline -- it is a statutory requirement. Once your discharge order is entered by the bankruptcy court, the window for reaffirmation closes.
+Section 524(c)(1) of the Bankruptcy Code is clear: a reaffirmation agreement must be "made before the granting of the discharge." This is not a flexible guideline - it is a statutory requirement. Once your discharge order is entered by the bankruptcy court, the window for reaffirmation closes.
 
-The discharge eliminates your personal liability for dischargeable debts. A reaffirmation agreement is an exception to that discharge -- a voluntary agreement to remain liable for a specific debt. The statute requires that this exception be created before the discharge itself, not after.
+The discharge eliminates your personal liability for dischargeable debts. A reaffirmation agreement is an exception to that discharge - a voluntary agreement to remain liable for a specific debt. The statute requires that this exception be created before the discharge itself, not after.
 
 This means the deadline is not 30 days after filing, or 60 days after the 341 meeting, or any other fixed period. The deadline is the entry of the discharge order, which varies from case to case. Understanding the typical Chapter 7 timeline is essential to ensuring you do not miss the window.
 
@@ -291,7 +291,7 @@ While every case is different, here is the general timeline for a standard Chapt
 
 Day 0: Petition Filed
 
-Your Chapter 7 case begins. The automatic stay takes effect immediately. Within 30 days, you must file your Statement of Intention (Official Form 108) declaring what you intend to do with secured property -- surrender, reaffirm, or redeem.
+Your Chapter 7 case begins. The automatic stay takes effect immediately. Within 30 days, you must file your Statement of Intention (Official Form 108) declaring what you intend to do with secured property - surrender, reaffirm, or redeem.
 
 Days 21-40: Section 341 Meeting of Creditors
 
@@ -299,7 +299,7 @@ The 341 meeting is typically scheduled 21 to 40 days after the petition is filed
 
 Days 30-45: Perform Your Stated Intention
 
-Under Section 521(a)(2)(B), you must perform your stated intention within 30 days after the first date set for the 341 meeting. If you stated you would reaffirm, this is your target window for getting the agreement signed and filed. However, this deadline relates to the Statement of Intention, not the reaffirmation itself -- the actual hard deadline for reaffirmation is the discharge date.
+Under Section 521(a)(2)(B), you must perform your stated intention within 30 days after the first date set for the 341 meeting. If you stated you would reaffirm, this is your target window for getting the agreement signed and filed. However, this deadline relates to the Statement of Intention, not the reaffirmation itself - the actual hard deadline for reaffirmation is the discharge date.
 
 Day 45 After 341: Reaffirmation Hearing (If Required)
 
@@ -307,13 +307,13 @@ If you are pro se (no attorney) or if there is a presumption of undue hardship, 
 
 Day 60 After 341: Discharge Entered
 
-In a routine Chapter 7 case with no objections, discharge is typically entered approximately 60 days after the conclusion of the 341 meeting. This is the hard deadline for reaffirmation. Some cases take longer -- objections, continued hearings, or pending motions can delay discharge -- but 60 days is the standard.
+In a routine Chapter 7 case with no objections, discharge is typically entered approximately 60 days after the conclusion of the 341 meeting. This is the hard deadline for reaffirmation. Some cases take longer - objections, continued hearings, or pending motions can delay discharge - but 60 days is the standard.
 
 After Discharge: Too Late
 
 Once the discharge order is entered, the reaffirmation window is closed in most jurisdictions. Any debt you intended to reaffirm but did not is now discharged.
 
-Key insight: In a typical Chapter 7 case, you have roughly 90 to 120 days from filing to discharge. But the practical window for reaffirmation is much shorter -- you should aim to have the agreement signed, filed, and (if required) approved by the court well before the discharge date.
+Key insight: In a typical Chapter 7 case, you have roughly 90 to 120 days from filing to discharge. But the practical window for reaffirmation is much shorter - you should aim to have the agreement signed, filed, and (if required) approved by the court well before the discharge date.
 
 Section 521(a)(2): The Statement of Intention
 
@@ -327,7 +327,7 @@ Redeem: Pay the current value and keep the property free of the lien
 
 Section 521(a)(2)(B) further requires you to perform your stated intention within 30 days after the first date set for the 341 meeting. If you stated you would reaffirm but fail to do so, Section 521(a)(6) provides that the automatic stay terminates with respect to that property. This means the creditor could take action on the collateral without seeking court permission.
 
-Two separate deadlines, both important: The Statement of Intention deadline (30 days after filing) and the performance deadline (30 days after the 341 meeting) are different from the reaffirmation-before-discharge deadline. Missing the Statement of Intention deadline or the performance deadline can have immediate practical consequences -- including loss of the automatic stay -- even if the discharge deadline has not yet passed.
+Two separate deadlines, both important: The Statement of Intention deadline (30 days after filing) and the performance deadline (30 days after the 341 meeting) are different from the reaffirmation-before-discharge deadline. Missing the Statement of Intention deadline or the performance deadline can have immediate practical consequences - including loss of the automatic stay - even if the discharge deadline has not yet passed.
 
 What Happens If You Miss the Deadline
 
@@ -355,7 +355,7 @@ The general rule is firm: no reaffirmation after discharge. But a small number o
 
 The most frequently cited is the Ninth Circuit's decision in In re Jamo (283 F.3d 392, 1st Cir. 2002), which held that a bankruptcy court has discretion to allow a late-filed reaffirmation agreement when the delay was due to excusable neglect and the creditor consents. Some courts within the Ninth Circuit and a few other jurisdictions have followed this approach.
 
-However, the majority of courts reject late reaffirmation. The statutory language -- "before the granting of the discharge" -- is treated as a bright-line rule that cannot be extended. Courts in the Fourth, Sixth, and Seventh Circuits, among others, have held that the deadline is absolute.
+However, the majority of courts reject late reaffirmation. The statutory language - "before the granting of the discharge" - is treated as a bright-line rule that cannot be extended. Courts in the Fourth, Sixth, and Seventh Circuits, among others, have held that the deadline is absolute.
 
 Do not rely on Jamo. Even in jurisdictions where the exception exists, it is narrowly applied and requires showing excusable neglect. The safest approach is to treat the discharge date as an absolute deadline and ensure the reaffirmation agreement is filed well in advance.
 
@@ -367,7 +367,7 @@ Know your discharge date. Check your court's electronic filing system (CM/ECF or
 
 Build in time for the hearing. If you are pro se, the court must hold a reaffirmation hearing. This needs to be scheduled before the discharge date, and courts have limited availability. File the agreement early enough that the clerk can schedule a hearing in time
 
-File the agreement, even if the hearing is pending. The agreement must be "made" before discharge -- which courts interpret as signed and filed with the court. Even if the hearing has not yet occurred, getting the agreement on the docket preserves your position
+File the agreement, even if the hearing is pending. The agreement must be "made" before discharge - which courts interpret as signed and filed with the court. Even if the hearing has not yet occurred, getting the agreement on the docket preserves your position
 
 Communicate with the creditor. Some creditors are slow to send reaffirmation agreements or to sign them after you return them. Follow up persistently. A creditor's delay should not cause you to miss the deadline
 
@@ -381,7 +381,7 @@ Under Section 524(c)(1), the reaffirmation agreement must be made before the gra
 
 Can I file a reaffirmation agreement after discharge?
 
-Generally no. Section 524(c)(1) requires the agreement to be made before discharge. Most courts strictly enforce this deadline. A small number of courts have allowed late reaffirmation in narrow circumstances -- the Jamo decision is the most cited example -- but this is the exception, not the rule. If you have missed the deadline, consult a local bankruptcy attorney immediately to determine whether any exception applies in your jurisdiction.
+Generally no. Section 524(c)(1) requires the agreement to be made before discharge. Most courts strictly enforce this deadline. A small number of courts have allowed late reaffirmation in narrow circumstances - the Jamo decision is the most cited example - but this is the exception, not the rule. If you have missed the deadline, consult a local bankruptcy attorney immediately to determine whether any exception applies in your jurisdiction.
 
 What happens if I miss the reaffirmation deadline?
 
@@ -391,17 +391,17 @@ Related Resources
 
 Reaffirmation Agreements Overview
 
-Rescinding a Reaffirmation Agreement -- Canceling within 60 days of filing
+Rescinding a Reaffirmation Agreement - Canceling within 60 days of filing
 
-Reaffirmation Without an Attorney -- Court approval requirements for pro se debtors
+Reaffirmation Without an Attorney - Court approval requirements for pro se debtors
 
 When to Say No to Reaffirmation
 
-The 341 Meeting of Creditors -- What to expect at the 341 hearing
+The 341 Meeting of Creditors - What to expect at the 341 hearing
 
-What Is Chapter 7? -- Complete guide to Chapter 7 bankruptcy
+What Is Chapter 7? - Complete guide to Chapter 7 bankruptcy
 
-The Discharge Injunction -- How Section 524 protects you after discharge
+The Discharge Injunction - How Section 524 protects you after discharge
 
 Check Your Bankruptcy Discharge Eligibility
 
@@ -425,10 +425,10 @@ Further Reading & Resources
 Authority sources for deeper research on liens and reaffirmation agreements:
 
 11 U.S.C. Section 522(f)
-Cornell LII -- lien avoidance
+Cornell LII - lien avoidance
 
 11 U.S.C. Section 524(c)
-Cornell LII -- reaffirmation
+Cornell LII - reaffirmation
 
 Reaffirmation Agreement Form
 USCourts.gov Form B 240A
@@ -527,7 +527,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Reaffirmation Agreement -- Keep Property in Ch. 7 [2026]
+## Reaffirmation Agreement - Keep Property in Ch. 7 [2026]
 Source: https://reaffirmationagreement.org/
 
 Skip to main content
@@ -542,11 +542,11 @@ Risks
 Rescission
 Ride-Through
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Reaffirmation Agreement
 
-Understanding 11 U.S.C. Section 524(c) -- keeping secured debt through bankruptcy
+Understanding 11 U.S.C. Section 524(c) - keeping secured debt through bankruptcy
 
 Network › Reaffirmation Agreements
 
@@ -558,7 +558,7 @@ This site will explain when reaffirmation makes sense, when it does not, and wha
 
 Reaffirmation is one of the most consequential decisions in a Chapter 7 case, and many debtors sign these agreements without fully understanding the implications. We will provide the information you need to make an informed choice about whether to reaffirm, redeem, or surrender secured property.
 
-Part of the Open Bankruptcy Project -- a growing collection of free, open-source bankruptcy information sites built on public court data. No advertising, no lead generation, no attorney referral fees. Real information, no strings.
+Part of the Open Bankruptcy Project - a growing collection of free, open-source bankruptcy information sites built on public court data. No advertising, no lead generation, no attorney referral fees. Real information, no strings.
 
 Frequently Asked Questions
 
@@ -607,7 +607,7 @@ Ride-Through vs Reaffirmation vs Redemption
 
 Reaffirmation Without an Attorney
 
-Judge Denied Your Reaffirmation -- What Now?
+Judge Denied Your Reaffirmation - What Now?
 
 When to Say No to Reaffirmation
 
@@ -631,21 +631,21 @@ Subscribe
 
 Related Resources
 
-The Discharge Injunction -- How Section 524 permanently bars creditor collection after discharge
+The Discharge Injunction - How Section 524 permanently bars creditor collection after discharge
 
-What Is Chapter 7? -- Plain-English guide to Chapter 7 liquidation bankruptcy
+What Is Chapter 7? - Plain-English guide to Chapter 7 liquidation bankruptcy
 
-Section 523(a) nondischargeable debts -- Which debts survive bankruptcy under Section 523(a) nondischargeable debts(a)
+Section 523(a) nondischargeable debts - Which debts survive bankruptcy under Section 523(a) nondischargeable debts(a)
 
 Further Reading & Resources
 
 Authority sources for deeper research on liens and reaffirmation agreements:
 
 11 U.S.C. Section 522(f)
-Cornell LII -- lien avoidance
+Cornell LII - lien avoidance
 
 11 U.S.C. Section 524(c)
-Cornell LII -- reaffirmation
+Cornell LII - reaffirmation
 
 Reaffirmation Agreement Form
 USCourts.gov Form B 240A
@@ -690,7 +690,7 @@ whatischapter7.com →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -852,11 +852,14 @@ bankruptcyhardship.org
 voluntarypetition.org
 ♥ Sponsor
 GitHub
+Rule 9037 PII Scanner
 
 This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.
 A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending).
 
 Privacy | Terms | Open Bankruptcy Project
+
+Cited by the Federal Rules Committee (26-BK-3)
 
 PACER cases made free through RECAP: 91 of 37.9 million
 
@@ -878,7 +881,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Judge Denied Your Reaffirmation Agreement -- What Happens Now?
+## Judge Denied Your Reaffirmation Agreement - What Happens Now?
 Source: https://reaffirmationagreement.org/judge-denied.html
 
 Skip to main content
@@ -895,13 +898,13 @@ Ride-Through
 
 Judge Denied Your Reaffirmation Agreement
 
-What happens now -- and why it might actually be good news
+What happens now - and why it might actually be good news
 
 Home › Judge Denied Reaffirmation
 
 Why the Judge Said No
 
-If a bankruptcy judge has denied your reaffirmation agreement, the first thing to understand is that this is not a punishment. Judges deny reaffirmation agreements to protect debtors from taking on obligations they cannot afford. The denial means the judge concluded that the agreement would either impose an undue hardship on you or was not in your best interest -- or both.
+If a bankruptcy judge has denied your reaffirmation agreement, the first thing to understand is that this is not a punishment. Judges deny reaffirmation agreements to protect debtors from taking on obligations they cannot afford. The denial means the judge concluded that the agreement would either impose an undue hardship on you or was not in your best interest - or both.
 
 The most common reasons judges deny reaffirmation agreements:
 
@@ -911,7 +914,7 @@ You are underwater on the loan. If you owe $16,000 on a car worth $9,000, the ju
 
 The interest rate is high. Some reaffirmation agreements carry interest rates that the judge views as exploitative, particularly when combined with negative equity
 
-You filed pro se. When you are not represented by an attorney, the court must independently evaluate the agreement. Without an attorney's certification that the agreement does not create undue hardship, the judge must make that determination -- and many judges err on the side of protection
+You filed pro se. When you are not represented by an attorney, the court must independently evaluate the agreement. Without an attorney's certification that the agreement does not create undue hardship, the judge must make that determination - and many judges err on the side of protection
 
 The Legal Effect of Denial
 
@@ -931,7 +934,7 @@ If you have a car loan, the lender still has a lien on the car. They can reposse
 
 If you have a mortgage, the lender still has a lien on the house. They can foreclose if you stop paying
 
-But -- and this is the key difference from reaffirmation -- if they repossess or foreclose and the sale does not cover the full balance, they cannot come after you for the deficiency. The deficiency is discharged
+But - and this is the key difference from reaffirmation - if they repossess or foreclose and the sale does not cover the full balance, they cannot come after you for the deficiency. The deficiency is discharged
 
 This is actually a form of protection. Without reaffirmation, the worst case is that you lose the property. With reaffirmation, the worst case is that you lose the property AND owe a deficiency balance that could follow you for years.
 
@@ -941,11 +944,11 @@ Option 1: Keep Paying Voluntarily
 
 This is what most debtors do, and it works more often than you might expect. Even without a reaffirmation agreement, you can continue making your regular monthly payments. Many creditors will accept the payments and leave the property alone.
 
-Why would a creditor accept payments without a reaffirmation agreement? Because the alternative -- repossessing a car or foreclosing on a house -- is expensive. The creditor would rather receive your $400/month car payment than spend $1,500 on repossession, towing, storage, and auction fees only to sell the vehicle for less than the loan balance.
+Why would a creditor accept payments without a reaffirmation agreement? Because the alternative - repossessing a car or foreclosing on a house - is expensive. The creditor would rather receive your $400/month car payment than spend $1,500 on repossession, towing, storage, and auction fees only to sell the vehicle for less than the loan balance.
 
 The practical reality in most cases:
 
-Auto lenders: Most major auto lenders (Capital One, Ally, Wells Fargo, Chase) will continue accepting payments without reaffirmation if you remain current. Some lenders, however, have policies to repossess after discharge regardless -- Ford Motor Credit and some credit unions have been known to take this approach
+Auto lenders: Most major auto lenders (Capital One, Ally, Wells Fargo, Chase) will continue accepting payments without reaffirmation if you remain current. Some lenders, however, have policies to repossess after discharge regardless - Ford Motor Credit and some credit unions have been known to take this approach
 
 Mortgage servicers: Nearly all mortgage servicers will continue accepting payments without reaffirmation. Foreclosing on a current borrower is expensive and generates negative publicity. The overwhelming majority of servicers will not foreclose solely because reaffirmation was denied
 
@@ -967,7 +970,7 @@ The creditor has a reputation for repossessing after denied reaffirmation
 
 Option 3: Negotiate Modified Terms
 
-In some cases, the denial creates leverage for negotiation. The creditor knows that without reaffirmation, you have no personal liability. If you stop paying, they get the collateral back -- but nothing else. Some creditors will offer modified terms to keep you paying:
+In some cases, the denial creates leverage for negotiation. The creditor knows that without reaffirmation, you have no personal liability. If you stop paying, they get the collateral back - but nothing else. Some creditors will offer modified terms to keep you paying:
 
 Reduced interest rate
 
@@ -975,11 +978,11 @@ Extended loan term (lower monthly payment)
 
 Reduced principal balance to match the collateral value
 
-This is more common with auto lenders than mortgage servicers. If the creditor offers modified terms, you could potentially enter into a new reaffirmation agreement with better numbers -- one that the judge might approve. But the timing matters: the agreement must be made before discharge is entered.
+This is more common with auto lenders than mortgage servicers. If the creditor offers modified terms, you could potentially enter into a new reaffirmation agreement with better numbers - one that the judge might approve. But the timing matters: the agreement must be made before discharge is entered.
 
 Option 4: Redeem the Property (Cars Only)
 
-If you have access to funds, you can file a motion to redeem the property under Section 722. Redemption lets you pay the current replacement value of tangible personal property in a lump sum, keep the property free and clear, and discharge the remaining balance. This only applies to personal property -- not real estate.
+If you have access to funds, you can file a motion to redeem the property under Section 722. Redemption lets you pay the current replacement value of tangible personal property in a lump sum, keep the property free and clear, and discharge the remaining balance. This only applies to personal property - not real estate.
 
 Redemption lending companies exist to finance this lump sum, though their interest rates tend to be high (18% to 24%). Even with a high-interest redemption loan, the total cost can be significantly less than the original loan if the property has depreciated substantially.
 
@@ -987,7 +990,7 @@ The Credit Reporting Question
 
 One concern debtors often have after reaffirmation denial is the impact on credit rebuilding. Here is the reality:
 
-Some creditors will not report payments without reaffirmation. Without an active reaffirmation agreement, some auto lenders treat the account as discharged in bankruptcy and stop reporting to credit bureaus entirely -- even if you are making on-time payments
+Some creditors will not report payments without reaffirmation. Without an active reaffirmation agreement, some auto lenders treat the account as discharged in bankruptcy and stop reporting to credit bureaus entirely - even if you are making on-time payments
 
 Other creditors will report. Not all creditors have this policy. Some will continue reporting your payment history regardless of reaffirmation status
 
@@ -995,7 +998,7 @@ The bankruptcy stays on your report regardless. The Chapter 7 filing will appear
 
 Other credit-building strategies exist. Secured credit cards, credit-builder loans, and becoming an authorized user on a family member's account can all help rebuild credit without reaffirmation
 
-Perspective: Reaffirming a debt solely for credit reporting purposes is risky. You are taking on personal liability for a debt -- with all the deficiency risk that entails -- in exchange for a credit reporting benefit that may be modest compared to alternatives.
+Perspective: Reaffirming a debt solely for credit reporting purposes is risky. You are taking on personal liability for a debt - with all the deficiency risk that entails - in exchange for a credit reporting benefit that may be modest compared to alternatives.
 
 What Creditors Actually Do in Practice
 
@@ -1013,7 +1016,7 @@ Can You Try Again?
 
 In some circumstances, you may be able to submit a new reaffirmation agreement:
 
-Before discharge: If your financial situation has improved since the hearing -- you got a better-paying job, reduced your expenses, or can present new evidence -- you may be able to file a new agreement and request a new hearing. The key deadline is that the agreement must be made before the discharge is entered
+Before discharge: If your financial situation has improved since the hearing - you got a better-paying job, reduced your expenses, or can present new evidence - you may be able to file a new agreement and request a new hearing. The key deadline is that the agreement must be made before the discharge is entered
 
 Modified terms: If the creditor offers better terms (lower balance, reduced interest rate), the improved numbers might satisfy the undue hardship test and the best-interest test
 
@@ -1023,7 +1026,7 @@ Frequently Asked Questions
 
 Can the creditor repossess my car if the judge denies reaffirmation?
 
-Technically yes -- the creditor's lien survives even though your personal liability is discharged. The creditor has the legal right to repossess the collateral. However, in practice, many creditors will not repossess if you continue making on-time payments. Repossessing a vehicle from a current borrower costs money, and the creditor would rather receive payments than auction a depreciating asset.
+Technically yes - the creditor's lien survives even though your personal liability is discharged. The creditor has the legal right to repossess the collateral. However, in practice, many creditors will not repossess if you continue making on-time payments. Repossessing a vehicle from a current borrower costs money, and the creditor would rather receive payments than auction a depreciating asset.
 
 Will my credit be affected if reaffirmation is denied?
 
@@ -1031,11 +1034,11 @@ Some creditors will not report your on-time payments to credit bureaus if there 
 
 Can I ask the judge to reconsider a denied reaffirmation?
 
-In some cases, yes. If your financial circumstances have changed -- for example, you received a raise, reduced your expenses, or can present new evidence that the agreement does not create undue hardship -- you may be able to file a new reaffirmation agreement and request a new hearing. However, the deadline matters: the agreement must be made before discharge is entered.
+In some cases, yes. If your financial circumstances have changed - for example, you received a raise, reduced your expenses, or can present new evidence that the agreement does not create undue hardship - you may be able to file a new reaffirmation agreement and request a new hearing. However, the deadline matters: the agreement must be made before discharge is entered.
 
 What is the difference between the debt being discharged and the lien surviving?
 
-The discharge eliminates your personal liability -- the creditor cannot sue you for the money. The lien is a separate legal interest in the property itself. Even after discharge, the creditor's lien gives them the right to repossess or foreclose if you stop paying. Think of it this way: you do not owe the money, but they still have a claim on the property.
+The discharge eliminates your personal liability - the creditor cannot sue you for the money. The lien is a separate legal interest in the property itself. Even after discharge, the creditor's lien gives them the right to repossess or foreclose if you stop paying. Think of it this way: you do not owe the money, but they still have a claim on the property.
 
 Related Resources
 
@@ -1047,11 +1050,11 @@ Risks of Reaffirmation
 
 Ride-Through vs Reaffirmation vs Redemption
 
-The Discharge Injunction -- How Section 524 permanently bars creditor collection
+The Discharge Injunction - How Section 524 permanently bars creditor collection
 
-Lien Stripping -- How Chapter 13 can eliminate junior liens on your home
+Lien Stripping - How Chapter 13 can eliminate junior liens on your home
 
-What Is Chapter 7? -- Plain-English guide to Chapter 7 liquidation bankruptcy
+What Is Chapter 7? - Plain-English guide to Chapter 7 liquidation bankruptcy
 
 Check Your Bankruptcy Discharge Eligibility
 
@@ -1075,10 +1078,10 @@ Further Reading & Resources
 Authority sources for deeper research on liens and reaffirmation agreements:
 
 11 U.S.C. Section 522(f)
-Cornell LII -- lien avoidance
+Cornell LII - lien avoidance
 
 11 U.S.C. Section 524(c)
-Cornell LII -- reaffirmation
+Cornell LII - reaffirmation
 
 Reaffirmation Agreement Form
 USCourts.gov Form B 240A
@@ -1206,13 +1209,13 @@ Key takeaway: Most homeowners can keep their home after Chapter 7 by simply cont
 
 Why Mortgage Reaffirmation Is Different
 
-Unlike car lenders, mortgage servicers almost never repossess (foreclose) solely because a borrower did not reaffirm. As long as you keep making payments, they keep accepting them. The mortgage lien survives bankruptcy regardless of whether you reaffirm -- the lender's security interest in your home is not affected by the discharge.
+Unlike car lenders, mortgage servicers almost never repossess (foreclose) solely because a borrower did not reaffirm. As long as you keep making payments, they keep accepting them. The mortgage lien survives bankruptcy regardless of whether you reaffirm - the lender's security interest in your home is not affected by the discharge.
 
 This is fundamentally different from car loans, where some lenders use the lack of reaffirmation as a pretext to repossess. Mortgage lenders are generally content to receive payments, with or without a reaffirmation agreement on file.
 
 The Enormous Risk of Mortgage Reaffirmation
 
-The stakes are higher with a mortgage. If you reaffirm a $200,000 mortgage and later lose the house to foreclosure, you could be personally liable for the entire deficiency -- the difference between what you owe and what the house sells for. That deficiency could be tens or even hundreds of thousands of dollars. Without reaffirmation, that deficiency is discharged.
+The stakes are higher with a mortgage. If you reaffirm a $200,000 mortgage and later lose the house to foreclosure, you could be personally liable for the entire deficiency - the difference between what you owe and what the house sells for. That deficiency could be tens or even hundreds of thousands of dollars. Without reaffirmation, that deficiency is discharged.
 
 Homes, like any real estate, can lose value. Economic downturns, neighborhood changes, or natural disasters can cause property values to drop below the mortgage balance. If you reaffirmed and then need to walk away from the house, you face the worst possible outcome: no home, massive debt, and no ability to file Chapter 7 again for eight years.
 
@@ -1232,7 +1235,7 @@ These are real considerations, but they must be weighed against the catastrophic
 
 What Happens If You Do Not Reaffirm Your Mortgage
 
-The mortgage lien survives. The lender keeps its security interest in your property. If you stop paying, they can foreclose -- just as they could before bankruptcy.
+The mortgage lien survives. The lender keeps its security interest in your property. If you stop paying, they can foreclose - just as they could before bankruptcy.
 
 Your personal liability is discharged. If the house sells at foreclosure for less than the mortgage balance, the lender cannot sue you for the difference. This is the key protection you preserve by not reaffirming.
 
@@ -1244,11 +1247,11 @@ Circuit-by-Circuit Differences
 
 Federal courts have interpreted the post-BAPCPA reaffirmation rules differently. In some circuits, the ride-through option (keeping the property and making payments without reaffirming) is well-established for mortgages. In others, the legal landscape is less clear, though mortgage servicers almost universally continue accepting payments regardless.
 
-Ask your attorney about the specific practice in your district. Local custom matters here -- some districts have nearly zero mortgage reaffirmations, while others see them more frequently.
+Ask your attorney about the specific practice in your district. Local custom matters here - some districts have nearly zero mortgage reaffirmations, while others see them more frequently.
 
 When to Consult an Attorney
 
-If your mortgage servicer is pressuring you to reaffirm, talk to your bankruptcy attorney before signing anything. If your attorney is reluctant to sign the attorney certification on a mortgage reaffirmation, that reluctance is well-founded. The potential downside of restoring personal liability on a mortgage -- potentially hundreds of thousands of dollars -- rarely justifies the credit-reporting benefit.
+If your mortgage servicer is pressuring you to reaffirm, talk to your bankruptcy attorney before signing anything. If your attorney is reluctant to sign the attorney certification on a mortgage reaffirmation, that reluctance is well-founded. The potential downside of restoring personal liability on a mortgage - potentially hundreds of thousands of dollars - rarely justifies the credit-reporting benefit.
 
 If credit reporting is your primary concern, ask your attorney about alternatives. Some debtors have successfully disputed credit bureau entries or used other strategies to ensure their mortgage payments are reported, even without reaffirmation.
 
@@ -1258,13 +1261,13 @@ Reaffirmation Agreements Overview
 
 Car Loan Reaffirmation
 
-Risks of Reaffirmation -- What your creditor will not tell you
+Risks of Reaffirmation - What your creditor will not tell you
 
 How to Rescind a Reaffirmation Agreement
 
 Understanding Bankruptcy Discharge
 
-Bankruptcy Exemptions by State -- Protecting your home equity
+Bankruptcy Exemptions by State - Protecting your home equity
 
 Lien Stripping and Avoidance
 
@@ -1296,10 +1299,10 @@ Further Reading & Resources
 Authority sources for deeper research on liens and reaffirmation agreements:
 
 11 U.S.C. Section 522(f)
-Cornell LII -- lien avoidance
+Cornell LII - lien avoidance
 
 11 U.S.C. Section 524(c)
-Cornell LII -- reaffirmation
+Cornell LII - reaffirmation
 
 Reaffirmation Agreement Form
 USCourts.gov Form B 240A
@@ -1344,7 +1347,7 @@ whatischapter7.com →
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-ReaffirmationAgreement.com -- Part of the Open Bankruptcy Project.
+ReaffirmationAgreement.com - Part of the Open Bankruptcy Project.
 
 Home
 Car Loans
@@ -1412,7 +1415,7 @@ Home » Rescission
 
 Changed Your Mind? How to Rescind a Reaffirmation Agreement
 
-If you signed a reaffirmation agreement and are having second thoughts, you may still have time to cancel it. The Bankruptcy Code provides a built-in cooling-off period specifically because Congress recognized how significant -- and potentially harmful -- reaffirmation can be.
+If you signed a reaffirmation agreement and are having second thoughts, you may still have time to cancel it. The Bankruptcy Code provides a built-in cooling-off period specifically because Congress recognized how significant - and potentially harmful - reaffirmation can be.
 
 The Rescission Period Under Section 524(c)(4)
 
@@ -1430,7 +1433,7 @@ How to Rescind
 
 The process is straightforward:
 
-Act before the deadline. Calculate your rescission deadline based on the two dates above. Do not wait until the last day -- mail and filing delays can cause problems.
+Act before the deadline. Calculate your rescission deadline based on the two dates above. Do not wait until the last day - mail and filing delays can cause problems.
 
 Notify the creditor in writing. Send a clear written statement that you are rescinding the reaffirmation agreement. Include your name, case number, the account number, and a statement such as: "I am exercising my right to rescind the reaffirmation agreement filed in my bankruptcy case pursuant to 11 U.S.C. Section 524(c)(4)."
 
@@ -1450,7 +1453,7 @@ The lien survives. If the debt was secured (car loan, mortgage), the creditor's 
 
 The creditor may act on the collateral. After rescission, some auto lenders may demand the vehicle back or require you to choose another option (redemption or surrender). Others may continue accepting payments. This depends on the lender and your jurisdiction.
 
-Important: Rescission cancels the agreement, but it does not automatically mean you lose the property. If you continue making payments, many creditors will continue accepting them -- but they are not required to. Have a plan in place before you rescind.
+Important: Rescission cancels the agreement, but it does not automatically mean you lose the property. If you continue making payments, many creditors will continue accepting them - but they are not required to. Have a plan in place before you rescind.
 
 When the Rescission Window Has Closed
 
@@ -1470,7 +1473,7 @@ Why Congress Created the Rescission Right
 
 The rescission period exists because Congress understood that debtors facing financial crisis may make decisions under pressure that they later regret. Creditors have strong incentives to push for reaffirmation. Debtors facing the prospect of losing a car or home may sign without fully considering the long-term consequences.
 
-The cooling-off period is a safety valve. It gives you time to reflect, consult with an attorney, review your budget, and make a final decision without the pressure of an imminent deadline. If you realize after signing that the payments will be a stretch, that the property is not worth what you owe, or that you simply do not want to carry this debt into your fresh start -- you can walk it back.
+The cooling-off period is a safety valve. It gives you time to reflect, consult with an attorney, review your budget, and make a final decision without the pressure of an imminent deadline. If you realize after signing that the payments will be a stretch, that the property is not worth what you owe, or that you simply do not want to carry this debt into your fresh start - you can walk it back.
 
 Tips for Deciding Whether to Rescind
 
@@ -1482,7 +1485,7 @@ Talk to your bankruptcy attorney. If they were reluctant to sign the certificati
 
 Consider your alternatives. If you rescind a car loan reaffirmation, can you find affordable transportation? If you rescind a mortgage reaffirmation, will the servicer continue accepting payments?
 
-Do not let inertia decide. The rescission deadline will pass whether you act or not. Making a deliberate choice -- either to keep the agreement or to cancel it -- is better than letting the deadline expire by default.
+Do not let inertia decide. The rescission deadline will pass whether you act or not. Making a deliberate choice - either to keep the agreement or to cancel it - is better than letting the deadline expire by default.
 
 Related Guides
 
@@ -1528,10 +1531,10 @@ Further Reading & Resources
 Authority sources for deeper research on liens and reaffirmation agreements:
 
 11 U.S.C. Section 522(f)
-Cornell LII -- lien avoidance
+Cornell LII - lien avoidance
 
 11 U.S.C. Section 524(c)
-Cornell LII -- reaffirmation
+Cornell LII - reaffirmation
 
 Reaffirmation Agreement Form
 USCourts.gov Form B 240A
@@ -1576,7 +1579,7 @@ whatischapter7.com →
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-ReaffirmationAgreement.com -- Part of the Open Bankruptcy Project.
+ReaffirmationAgreement.com - Part of the Open Bankruptcy Project.
 
 Home
 Car Loans
@@ -1621,7 +1624,7 @@ Section 727(a)(8) Discharge Waiting Period -- 727a8.com
 
 ---
 
-## Ride-Through vs Reaffirmation vs Redemption -- Your Options
+## Ride-Through vs Reaffirmation vs Redemption - Your Options
 Source: https://reaffirmationagreement.org/ride-through.html
 
 Skip to main content
@@ -1644,13 +1647,13 @@ Home › Ride-Through vs Reaffirmation vs Redemption
 
 Three Paths for Secured Debt in Chapter 7
 
-When you file Chapter 7 bankruptcy and own property that secures a debt -- a car loan, for example -- you face one of the most important decisions in your case. Section 521(a)(2) of the Bankruptcy Code requires you to state your intention regarding each piece of secured property within 30 days of filing. You must choose one of three options: reaffirmation, redemption, or surrender.
+When you file Chapter 7 bankruptcy and own property that secures a debt - a car loan, for example - you face one of the most important decisions in your case. Section 521(a)(2) of the Bankruptcy Code requires you to state your intention regarding each piece of secured property within 30 days of filing. You must choose one of three options: reaffirmation, redemption, or surrender.
 
-Before 2005, a fourth option existed informally in many courts: the "ride-through." While BAPCPA changed the landscape, understanding all three formal options -- and the practical reality of the ride-through -- is critical to making an informed decision.
+Before 2005, a fourth option existed informally in many courts: the "ride-through." While BAPCPA changed the landscape, understanding all three formal options - and the practical reality of the ride-through - is critical to making an informed decision.
 
 Each option has dramatically different consequences for your personal liability, your credit, and your ability to keep the property. The right choice depends on the value of the property, the balance of the loan, your post-bankruptcy budget, and your long-term financial goals.
 
-Option 1: Reaffirmation -- Keep the Debt, Keep the Property
+Option 1: Reaffirmation - Keep the Debt, Keep the Property
 
 A reaffirmation agreement is a legally binding contract between you and the creditor that survives your bankruptcy discharge. When you reaffirm a debt, you agree to remain personally liable for the full balance, just as if you had never filed bankruptcy. In exchange, you keep the property and continue making payments under the original loan terms (or modified terms if the creditor agrees).
 
@@ -1674,7 +1677,7 @@ You keep the property with no change to the loan terms
 
 Your on-time payments will be reported to credit bureaus, helping rebuild your credit
 
-The process is straightforward -- sign the agreement, file it with the court, continue paying
+The process is straightforward - sign the agreement, file it with the court, continue paying
 
 Some lenders offer better terms (lower interest rate, reduced principal) as an incentive to reaffirm
 
@@ -1688,9 +1691,9 @@ You lose the protection of the discharge for this specific debt
 
 If your financial situation worsens after bankruptcy, this debt cannot be discharged again for years (eight years for another Chapter 7 under Section 1328(f))
 
-The biggest risk of reaffirmation: If you reaffirm a $20,000 car loan and the car is totaled six months later with only $12,000 in insurance coverage, you owe the remaining $8,000 -- and this debt cannot be discharged in another Chapter 7 for eight years.
+The biggest risk of reaffirmation: If you reaffirm a $20,000 car loan and the car is totaled six months later with only $12,000 in insurance coverage, you owe the remaining $8,000 - and this debt cannot be discharged in another Chapter 7 for eight years.
 
-Option 2: Redemption -- Pay Current Value, Eliminate the Rest
+Option 2: Redemption - Pay Current Value, Eliminate the Rest
 
 Redemption under Section 722 allows you to keep tangible personal property by paying the creditor its current replacement value in a single lump-sum payment. The remaining balance above that value is discharged.
 
@@ -1706,11 +1709,11 @@ To redeem, you pay the creditor the replacement value of the property (what it w
 
 Pros of Redemption
 
-You keep the property free and clear -- no more lien, no more loan payments
+You keep the property free and clear - no more lien, no more loan payments
 
 If the property is worth significantly less than what you owe, you save the difference. A $15,000 loan on an $8,000 car becomes an $8,000 payment, and the other $7,000 is discharged
 
-No ongoing personal liability -- you own the property outright after paying
+No ongoing personal liability - you own the property outright after paying
 
 Particularly powerful for underwater car loans where depreciation has outpaced payments
 
@@ -1718,7 +1721,7 @@ Cons of Redemption
 
 Requires a lump-sum payment, which most Chapter 7 debtors cannot afford. If you could pay $8,000 in cash, you might not be filing bankruptcy
 
-Redemption lending companies (such as 722 Redemption Funding) exist to finance the lump sum, but their interest rates are high -- often 18% to 24%
+Redemption lending companies (such as 722 Redemption Funding) exist to finance the lump sum, but their interest rates are high - often 18% to 24%
 
 Only applies to tangible personal property. You cannot redeem real estate (houses, land)
 
@@ -1726,21 +1729,21 @@ Valuation disputes can be contested and may require a court hearing, adding time
 
 When redemption shines: If you owe $18,000 on a car worth $9,000, redemption saves you $9,000 compared to reaffirmation. Even with a high-interest redemption loan, the total cost is often far less than continuing the original loan on an underwater vehicle.
 
-Option 3: Ride-Through -- Keep Paying, Skip the Paperwork
+Option 3: Ride-Through - Keep Paying, Skip the Paperwork
 
 The "ride-through" is not a formal statutory option. It refers to the practice of continuing to make payments on secured debt after bankruptcy without signing a reaffirmation agreement or filing a redemption motion. The debtor simply keeps paying and keeps the property.
 
 How Ride-Through Worked Before BAPCPA
 
-Before the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 (BAPCPA), many circuits recognized the ride-through as a legitimate fourth option. The logic was simple: if the debtor was current on payments and the creditor was receiving its bargained-for payments, there was no reason to force reaffirmation. The debtor kept the property, kept paying, but was not personally liable if they later defaulted -- the creditor's remedy was limited to repossessing the collateral.
+Before the Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 (BAPCPA), many circuits recognized the ride-through as a legitimate fourth option. The logic was simple: if the debtor was current on payments and the creditor was receiving its bargained-for payments, there was no reason to force reaffirmation. The debtor kept the property, kept paying, but was not personally liable if they later defaulted - the creditor's remedy was limited to repossessing the collateral.
 
-This was arguably the best of both worlds for debtors. You kept your car or other property, you were not locked into personal liability, and if your financial situation worsened, the worst that could happen was losing the property -- not a deficiency judgment on top of it.
+This was arguably the best of both worlds for debtors. You kept your car or other property, you were not locked into personal liability, and if your financial situation worsened, the worst that could happen was losing the property - not a deficiency judgment on top of it.
 
 BAPCPA Changed the Rules
 
 BAPCPA amended Section 521(a)(2) to require debtors to state their intention to either surrender, reaffirm, or redeem secured property. The revised statute conspicuously omits ride-through as an option. Section 521(a)(6) further provides that if the debtor fails to perform their stated intention within 45 days after the first meeting of creditors, the automatic stay terminates with respect to that property.
 
-Most circuits now interpret these changes as eliminating the ride-through. The Fourth, Fifth, Seventh, and Eleventh Circuits have held that BAPCPA requires debtors to choose among the three statutory options. Some courts enforce this strictly -- if you state an intention to reaffirm but fail to complete the reaffirmation agreement, the creditor may be entitled to repossess even if you are current on payments.
+Most circuits now interpret these changes as eliminating the ride-through. The Fourth, Fifth, Seventh, and Eleventh Circuits have held that BAPCPA requires debtors to choose among the three statutory options. Some courts enforce this strictly - if you state an intention to reaffirm but fail to complete the reaffirmation agreement, the creditor may be entitled to repossess even if you are current on payments.
 
 Where Ride-Through Still Exists (Sort Of)
 
@@ -1754,23 +1757,23 @@ Many creditors, regardless of jurisdiction, will accept ongoing payments without
 
 Pros of Ride-Through
 
-No personal liability -- if you later default, the creditor can repossess the property but cannot pursue you for a deficiency
+No personal liability - if you later default, the creditor can repossess the property but cannot pursue you for a deficiency
 
 No paperwork, no court hearing, no attorney certification required
 
 You keep the property as long as you keep paying
 
-Maximum flexibility -- you can stop paying and surrender at any time without additional consequences
+Maximum flexibility - you can stop paying and surrender at any time without additional consequences
 
 Cons of Ride-Through
 
-Not available in most circuits after BAPCPA -- check your jurisdiction carefully
+Not available in most circuits after BAPCPA - check your jurisdiction carefully
 
 Some creditors will repossess even if you are current, especially if no reaffirmation is on file
 
 Some creditors will not report your on-time payments to credit bureaus without an active reaffirmation agreement, limiting your ability to rebuild credit
 
-Legal uncertainty -- even in jurisdictions that tolerate ride-through, the creditor may challenge it
+Legal uncertainty - even in jurisdictions that tolerate ride-through, the creditor may challenge it
 
 Side-by-Side Comparison
 
@@ -1785,12 +1788,12 @@ Yes (you own it outright)
 Yes (while paying)
 
 Personal liability?
-Yes -- full balance
-No -- paid in full at current value
-No -- discharged
+Yes - full balance
+No - paid in full at current value
+No - discharged
 
 Deficiency risk?
-Yes -- if default or total loss
+Yes - if default or total loss
 No
 No
 
@@ -1800,18 +1803,18 @@ Lump sum (or redemption loan)
 Continue original payments
 
 Credit reporting
-Yes -- payments reported
-N/A -- debt paid off
-Varies -- some creditors won't report
+Yes - payments reported
+N/A - debt paid off
+Varies - some creditors won't report
 
 Applies to real estate?
 Yes
-No -- personal property only
+No - personal property only
 Varies by jurisdiction
 
 Court approval needed?
 Only if pro se
-Yes -- motion to redeem
+Yes - motion to redeem
 No
 
 Available after BAPCPA?
@@ -1833,7 +1836,7 @@ The property can be replaced cheaply (an old car, furniture, electronics)
 
 The cost of reaffirming or redeeming exceeds the benefit of keeping the property
 
-Many debtors resist surrender because of emotional attachment to property -- especially vehicles. But the financial math sometimes strongly favors surrendering an underwater asset and starting fresh. A $12,000 debt on a car worth $6,000 can be replaced with a reliable used car for $4,000 to $6,000, saving thousands over the life of the original loan.
+Many debtors resist surrender because of emotional attachment to property - especially vehicles. But the financial math sometimes strongly favors surrendering an underwater asset and starting fresh. A $12,000 debt on a car worth $6,000 can be replaced with a reliable used car for $4,000 to $6,000, saving thousands over the life of the original loan.
 
 How to Choose the Right Option
 
@@ -1883,7 +1886,7 @@ Frequently Asked Questions
 
 What is the difference between reaffirmation, redemption, and ride-through in Chapter 7?
 
-Reaffirmation keeps you personally liable for the debt and the property. Redemption under Section 722 lets you pay the current value of the property in a lump sum, keep the property, and eliminate the remaining balance. Ride-through (where available) lets you keep making payments without signing a reaffirmation agreement -- you keep the property but are not personally liable if you later default.
+Reaffirmation keeps you personally liable for the debt and the property. Redemption under Section 722 lets you pay the current value of the property in a lump sum, keep the property, and eliminate the remaining balance. Ride-through (where available) lets you keep making payments without signing a reaffirmation agreement - you keep the property but are not personally liable if you later default.
 
 Is ride-through still available after BAPCPA?
 
@@ -1907,11 +1910,11 @@ Risks of Reaffirmation
 
 Rescinding a Reaffirmation Agreement
 
-What Is Chapter 7? -- Plain-English guide to Chapter 7 liquidation bankruptcy
+What Is Chapter 7? - Plain-English guide to Chapter 7 liquidation bankruptcy
 
-Lien Stripping -- How Chapter 13 can eliminate junior liens on your home
+Lien Stripping - How Chapter 13 can eliminate junior liens on your home
 
-Nondischargeable Debts -- Which debts survive bankruptcy under Section 523(a)
+Nondischargeable Debts - Which debts survive bankruptcy under Section 523(a)
 
 Check Your Bankruptcy Discharge Eligibility
 
@@ -1935,10 +1938,10 @@ Further Reading & Resources
 Authority sources for deeper research on liens and reaffirmation agreements:
 
 11 U.S.C. Section 522(f)
-Cornell LII -- lien avoidance
+Cornell LII - lien avoidance
 
 11 U.S.C. Section 524(c)
-Cornell LII -- reaffirmation
+Cornell LII - reaffirmation
 
 Reaffirmation Agreement Form
 USCourts.gov Form B 240A
@@ -2068,13 +2071,13 @@ Risk 1: You Waive Your Discharge for That Debt
 
 The bankruptcy discharge eliminates your personal liability on most debts. It is the core benefit of filing. When you reaffirm, you carve out an exception: that one debt survives as if you never filed bankruptcy.
 
-This means the creditor retains every collection tool available under state law: lawsuits, wage garnishment, bank levies, and reporting to credit bureaus. If you fall behind, you are in exactly the same position as someone who never filed bankruptcy -- except now you cannot file Chapter 7 again for eight years.
+This means the creditor retains every collection tool available under state law: lawsuits, wage garnishment, bank levies, and reporting to credit bureaus. If you fall behind, you are in exactly the same position as someone who never filed bankruptcy - except now you cannot file Chapter 7 again for eight years.
 
 Risk 2: Deficiency Liability Returns
 
 This is the biggest risk. If you reaffirm a car loan and later default, the lender can repossess the vehicle, sell it (usually at a steep discount), and sue you for the remaining balance. Without reaffirmation, that deficiency would have been wiped out by your discharge.
 
-Consider a typical scenario: you owe $18,000 on a car worth $12,000. You reaffirm. A year later, you lose your job and miss payments. The lender repossesses and sells the car at auction for $7,000. You now owe $11,000 -- with no car, no job, and no bankruptcy protection available for years.
+Consider a typical scenario: you owe $18,000 on a car worth $12,000. You reaffirm. A year later, you lose your job and miss payments. The lender repossesses and sells the car at auction for $7,000. You now owe $11,000 - with no car, no job, and no bankruptcy protection available for years.
 
 The same risk applies to mortgages, but on a much larger scale. A mortgage deficiency after foreclosure can be tens of thousands of dollars or more. This is why experienced attorneys are especially cautious about mortgage reaffirmation.
 
@@ -2082,9 +2085,9 @@ Risk 3: Underwater Assets Lock You In
 
 If you owe more on the property than it is currently worth (you are "upside down" or "underwater"), reaffirmation is particularly dangerous. You are committing to pay the full loan balance, not the property's actual value.
 
-With a car, this is common on day one -- most new cars lose value the moment you drive them off the lot. Over time, the gap may narrow. But if the car suffers mechanical failure, is totaled in an accident without adequate insurance, or simply depreciates faster than you pay down the loan, you could be trapped paying for something you no longer have or cannot use.
+With a car, this is common on day one - most new cars lose value the moment you drive them off the lot. Over time, the gap may narrow. But if the car suffers mechanical failure, is totaled in an accident without adequate insurance, or simply depreciates faster than you pay down the loan, you could be trapped paying for something you no longer have or cannot use.
 
-The alternative -- redemption under Section 722 -- lets you pay only the current fair market value. For significantly underwater loans, this can save thousands.
+The alternative - redemption under Section 722 - lets you pay only the current fair market value. For significantly underwater loans, this can save thousands.
 
 Risk 4: No Second Chance for Eight Years
 
@@ -2130,15 +2133,15 @@ If You Have Already Reaffirmed
 
 If you signed a reaffirmation agreement but have not yet passed the rescission deadline, you can still cancel. The rescission period runs until the later of: (1) 60 days after the agreement is filed with the court, or (2) the date your discharge is entered.
 
-If the rescission window has closed, the agreement is binding. Focus on making the payments and building an emergency fund. If you later find yourself unable to pay, consult a bankruptcy attorney about your options -- including the possibility of filing Chapter 13 if enough time has passed.
+If the rescission window has closed, the agreement is binding. Focus on making the payments and building an emergency fund. If you later find yourself unable to pay, consult a bankruptcy attorney about your options - including the possibility of filing Chapter 13 if enough time has passed.
 
 Related Guides
 
 Reaffirmation Agreements Overview
 
-Car Loan Reaffirmation -- The most common scenario
+Car Loan Reaffirmation - The most common scenario
 
-Mortgage Reaffirmation -- Highest stakes
+Mortgage Reaffirmation - Highest stakes
 
 How to Rescind a Reaffirmation Agreement
 
@@ -2176,10 +2179,10 @@ Further Reading & Resources
 Authority sources for deeper research on liens and reaffirmation agreements:
 
 11 U.S.C. Section 522(f)
-Cornell LII -- lien avoidance
+Cornell LII - lien avoidance
 
 11 U.S.C. Section 524(c)
-Cornell LII -- reaffirmation
+Cornell LII - reaffirmation
 
 Reaffirmation Agreement Form
 USCourts.gov Form B 240A
@@ -2224,7 +2227,7 @@ whatischapter7.com →
 
 Free, open-source bankruptcy transparency. No ads. No affiliate links. Supported by donations.
 
-ReaffirmationAgreement.com -- Part of the Open Bankruptcy Project.
+ReaffirmationAgreement.com - Part of the Open Bankruptcy Project.
 
 Home
 Car Loans
@@ -2269,7 +2272,7 @@ Student Loans in Bankruptcy -- bankruptcystudentloans.org
 
 ---
 
-## When to Say No to Reaffirmation -- Protecting Yourself
+## When to Say No to Reaffirmation - Protecting Yourself
 Source: https://reaffirmationagreement.org/when-to-say-no.html
 
 Skip to main content
@@ -2290,11 +2293,11 @@ Protecting yourself from one of the most consequential decisions in Chapter 7
 
 Home › When to Say No
 
-Reaffirmation Is Voluntary -- Always
+Reaffirmation Is Voluntary - Always
 
 The most important thing to understand about reaffirmation is that no creditor can force you to sign. Under Section 524(c), a reaffirmation agreement must be a voluntary act by the debtor. No creditor, no attorney, and no court can compel you to reaffirm a debt. If anyone tells you otherwise, they are wrong.
 
-Yet many debtors sign reaffirmation agreements without fully understanding what they are giving up. The entire purpose of Chapter 7 is to provide a fresh start -- to eliminate debts that have become unmanageable. A reaffirmation agreement carves out an exception to that fresh start for one specific debt, keeping you personally liable as if you never filed bankruptcy.
+Yet many debtors sign reaffirmation agreements without fully understanding what they are giving up. The entire purpose of Chapter 7 is to provide a fresh start - to eliminate debts that have become unmanageable. A reaffirmation agreement carves out an exception to that fresh start for one specific debt, keeping you personally liable as if you never filed bankruptcy.
 
 Sometimes reaffirmation makes sense. But there are clear situations where saying no is the smarter financial decision. This guide will help you identify those situations.
 
@@ -2324,7 +2327,7 @@ The math is simple but often ignored under the pressure of the moment. If your p
 
 Debtors who reaffirm debts they cannot afford often end up in one of two situations:
 
-Default on the reaffirmed debt. The creditor repossesses the property and sues for the deficiency. You lose the property AND owe money you cannot pay -- with no bankruptcy protection available for years
+Default on the reaffirmed debt. The creditor repossesses the property and sues for the deficiency. You lose the property AND owe money you cannot pay - with no bankruptcy protection available for years
 
 Default on other obligations. You make the reaffirmed car payment but fall behind on rent, utilities, or medical bills. The car payment crowds out more essential expenses
 
@@ -2344,23 +2347,23 @@ This applies to vehicles most commonly, but the same logic works for any secured
 
 Red Flag #4: The Interest Rate Is Punitive
 
-Some reaffirmation agreements carry the original loan terms, which may include high interest rates -- particularly for debtors who obtained financing before their credit deteriorated. An auto loan at 18% or 22% means a significant portion of each payment goes to interest rather than principal. Over the life of the loan, you may pay far more than the vehicle is worth.
+Some reaffirmation agreements carry the original loan terms, which may include high interest rates - particularly for debtors who obtained financing before their credit deteriorated. An auto loan at 18% or 22% means a significant portion of each payment goes to interest rather than principal. Over the life of the loan, you may pay far more than the vehicle is worth.
 
 If the creditor is not willing to reduce the interest rate as part of reaffirmation, this amplifies every other risk. You are paying more for a depreciating asset, with personal liability for the full balance if anything goes wrong.
 
-Some creditors will offer improved terms to incentivize reaffirmation -- a lower interest rate, reduced principal, or extended term. If the creditor is not willing to negotiate, that tells you something about whether reaffirmation serves your interests or only theirs.
+Some creditors will offer improved terms to incentivize reaffirmation - a lower interest rate, reduced principal, or extended term. If the creditor is not willing to negotiate, that tells you something about whether reaffirmation serves your interests or only theirs.
 
 Creditor Pressure Tactics to Recognize
 
-Creditors have strong financial incentives to push for reaffirmation. A reaffirmed debtor is a debtor who remains personally liable -- which means the creditor retains not only the collateral but also the right to pursue a deficiency. Be aware of these common pressure tactics:
+Creditors have strong financial incentives to push for reaffirmation. A reaffirmed debtor is a debtor who remains personally liable - which means the creditor retains not only the collateral but also the right to pursue a deficiency. Be aware of these common pressure tactics:
 
 "We will repossess immediately if you do not reaffirm"
 
-While some creditors do repossess after discharge without reaffirmation, many do not -- especially if you are current on payments. This statement is often a negotiation tactic rather than a firm policy. Ask the creditor to put their repossession policy in writing. If they will not, that is telling.
+While some creditors do repossess after discharge without reaffirmation, many do not - especially if you are current on payments. This statement is often a negotiation tactic rather than a firm policy. Ask the creditor to put their repossession policy in writing. If they will not, that is telling.
 
 "You will never rebuild your credit without reaffirmation"
 
-Some creditors do stop reporting payments without reaffirmation, but this is not universal. And even if this particular creditor stops reporting, there are other ways to rebuild credit -- secured credit cards, credit-builder loans, authorized user accounts. The credit reporting benefit of reaffirmation is real but often overstated.
+Some creditors do stop reporting payments without reaffirmation, but this is not universal. And even if this particular creditor stops reporting, there are other ways to rebuild credit - secured credit cards, credit-builder loans, authorized user accounts. The credit reporting benefit of reaffirmation is real but often overstated.
 
 "You need to decide right now"
 
@@ -2368,7 +2371,7 @@ The deadline for reaffirmation is before your discharge is entered, not before t
 
 "Everyone reaffirms"
 
-This is simply false. Many debtors choose not to reaffirm, particularly on underwater loans. Attorneys regularly advise clients against reaffirmation when the numbers do not support it. "Everyone does it" is not legal advice -- it is a sales pitch.
+This is simply false. Many debtors choose not to reaffirm, particularly on underwater loans. Attorneys regularly advise clients against reaffirmation when the numbers do not support it. "Everyone does it" is not legal advice - it is a sales pitch.
 
 If your attorney recommends against reaffirmation, listen carefully. Under Section 524(c)(3), your attorney must certify that the agreement does not impose an undue hardship. If your attorney refuses to sign that certification, it means they believe reaffirmation is financially harmful to you. That is a strong signal.
 
@@ -2394,9 +2397,9 @@ If the property is totaled/destroyed: insurance pays what it pays, and the remai
 
 If your income drops: you can stop paying and surrender the property with no further consequences
 
-The worst case is losing the property -- not losing the property plus owing thousands more
+The worst case is losing the property - not losing the property plus owing thousands more
 
-The bottom line: Reaffirmation converts a limited risk (losing the property) into an unlimited risk (losing the property plus owing a deficiency). Only reaffirm when the financial fundamentals solidly support it -- when you can afford the payments, the property is worth what you owe, and you have a financial cushion for the unexpected.
+The bottom line: Reaffirmation converts a limited risk (losing the property) into an unlimited risk (losing the property plus owing a deficiency). Only reaffirm when the financial fundamentals solidly support it - when you can afford the payments, the property is worth what you owe, and you have a financial cushion for the unexpected.
 
 When Reaffirmation Does Make Sense
 
@@ -2404,7 +2407,7 @@ To be fair, there are situations where reaffirmation is reasonable:
 
 The property value exceeds the loan balance. If your car is worth more than what you owe, you are building equity with every payment. The deficiency risk is low
 
-Your budget comfortably supports the payments. Not "barely" or "if I cut back on food" -- comfortably, with room for the unexpected
+Your budget comfortably supports the payments. Not "barely" or "if I cut back on food" - comfortably, with room for the unexpected
 
 The creditor offers improved terms. A lower interest rate, reduced principal, or extended term can change the math significantly
 
@@ -2412,7 +2415,7 @@ The property is irreplaceable or essential. A specialized work vehicle, a home w
 
 Credit rebuilding is a top priority and this creditor reports. If you have confirmed that the creditor will report payments and you have no other credit-building options
 
-Even in these cases, reaffirmation should be a deliberate, informed choice -- never a reflexive "yes" driven by fear of losing property or pressure from a creditor.
+Even in these cases, reaffirmation should be a deliberate, informed choice - never a reflexive "yes" driven by fear of losing property or pressure from a creditor.
 
 Frequently Asked Questions
 
@@ -2426,7 +2429,7 @@ Generally no. If you owe $15,000 on a car worth $9,000, reaffirmation locks you 
 
 Will the creditor repossess my car if I do not reaffirm?
 
-It depends on the creditor. Most major auto lenders will continue accepting payments from current borrowers without a reaffirmation agreement. However, some creditors -- particularly credit unions and certain captive finance companies -- have policies to repossess after discharge regardless of payment status. Ask the creditor directly about their policy before making your decision.
+It depends on the creditor. Most major auto lenders will continue accepting payments from current borrowers without a reaffirmation agreement. However, some creditors - particularly credit unions and certain captive finance companies - have policies to repossess after discharge regardless of payment status. Ask the creditor directly about their policy before making your decision.
 
 What happens to my credit if I do not sign a reaffirmation agreement?
 
@@ -2436,15 +2439,15 @@ Related Resources
 
 Reaffirmation Agreements Overview
 
-Risks of Reaffirmation -- Detailed analysis of what can go wrong
+Risks of Reaffirmation - Detailed analysis of what can go wrong
 
-Ride-Through vs Reaffirmation vs Redemption -- Compare all your options
+Ride-Through vs Reaffirmation vs Redemption - Compare all your options
 
-Judge Denied Your Reaffirmation -- What Now?
+Judge Denied Your Reaffirmation - What Now?
 
-What Is Chapter 7? -- Plain-English guide to Chapter 7 bankruptcy
+What Is Chapter 7? - Plain-English guide to Chapter 7 bankruptcy
 
-The Means Test -- Determine whether you qualify for Chapter 7
+The Means Test - Determine whether you qualify for Chapter 7
 
 Check Your Bankruptcy Discharge Eligibility
 
@@ -2468,10 +2471,10 @@ Further Reading & Resources
 Authority sources for deeper research on liens and reaffirmation agreements:
 
 11 U.S.C. Section 522(f)
-Cornell LII -- lien avoidance
+Cornell LII - lien avoidance
 
 11 U.S.C. Section 524(c)
-Cornell LII -- reaffirmation
+Cornell LII - reaffirmation
 
 Reaffirmation Agreement Form
 USCourts.gov Form B 240A
@@ -2566,7 +2569,7 @@ Proposing automated Section 1328(f) discharge bar screening in federal bankruptc
 
 ---
 
-## Reaffirmation Without an Attorney -- Pro Se Requirements
+## Reaffirmation Without an Attorney - Pro Se Requirements
 Source: https://reaffirmationagreement.org/without-attorney.html
 
 Skip to main content
@@ -2589,11 +2592,11 @@ Home › Reaffirmation Without an Attorney
 
 The Attorney Requirement and Its Exception
 
-Congress understood that reaffirmation agreements are dangerous. When you reaffirm a debt in bankruptcy, you give up the discharge protection for that specific obligation. You are voluntarily agreeing to remain personally liable for a debt that would otherwise be eliminated. Because the stakes are high, the Bankruptcy Code builds in protections -- and the most important one depends on whether you have an attorney.
+Congress understood that reaffirmation agreements are dangerous. When you reaffirm a debt in bankruptcy, you give up the discharge protection for that specific obligation. You are voluntarily agreeing to remain personally liable for a debt that would otherwise be eliminated. Because the stakes are high, the Bankruptcy Code builds in protections - and the most important one depends on whether you have an attorney.
 
 When a debtor is represented by an attorney during the negotiation of a reaffirmation agreement, the attorney serves as a gatekeeper. Under Section 524(c)(3), the attorney must sign a declaration certifying that the debtor was fully informed, that the agreement represents a fully informed and voluntary decision, and that the agreement does not impose an undue hardship on the debtor or dependents.
 
-But what if you filed Chapter 7 without an attorney -- pro se? Or what if you had an attorney for the bankruptcy filing but negotiated the reaffirmation agreement on your own? In that case, the court itself becomes the gatekeeper. Section 524(c)(6) requires the court to hold a hearing and approve the reaffirmation agreement before it can take effect.
+But what if you filed Chapter 7 without an attorney - pro se? Or what if you had an attorney for the bankruptcy filing but negotiated the reaffirmation agreement on your own? In that case, the court itself becomes the gatekeeper. Section 524(c)(6) requires the court to hold a hearing and approve the reaffirmation agreement before it can take effect.
 
 Section 524(c)(6): The Court Must Approve
 
@@ -2603,7 +2606,7 @@ The agreement does not impose an undue hardship on the debtor or a dependent of 
 
 The agreement is in the best interest of the debtor
 
-This is a real hearing with substantive review -- not a rubber stamp. Many bankruptcy judges take this responsibility seriously and will deny reaffirmation agreements that fail either test.
+This is a real hearing with substantive review - not a rubber stamp. Many bankruptcy judges take this responsibility seriously and will deny reaffirmation agreements that fail either test.
 
 The Undue Hardship Presumption
 
@@ -2619,7 +2622,7 @@ Additional income sources not reflected on Schedule J (side work, family support
 
 The property is essential and cannot be replaced at a lower cost (the only reliable vehicle in a rural area with no public transit)
 
-However, judges are skeptical of speculative future income or vague plans to cut expenses. If you are going to rebut the presumption, bring specific evidence -- a new employment offer letter, a signed lease for cheaper housing, documentation of additional income.
+However, judges are skeptical of speculative future income or vague plans to cut expenses. If you are going to rebut the presumption, bring specific evidence - a new employment offer letter, a signed lease for cheaper housing, documentation of additional income.
 
 Reality check: Many bankruptcy judges will deny reaffirmation for pro se debtors whose Schedule J shows negative disposable income. The presumption of undue hardship is difficult to overcome, and judges view their gatekeeping role as protecting debtors from themselves.
 
@@ -2629,7 +2632,7 @@ If you are a pro se debtor seeking to reaffirm a debt, here is what typically ha
 
 Before the Hearing
 
-The reaffirmation agreement is filed with the court, usually on Official Form 240A (Reaffirmation Agreement) and Form 240B (Reaffirmation Agreement -- Motion for Court Approval)
+The reaffirmation agreement is filed with the court, usually on Official Form 240A (Reaffirmation Agreement) and Form 240B (Reaffirmation Agreement - Motion for Court Approval)
 
 The court reviews your Schedule I (Current Income) and Schedule J (Current Expenditures) to assess affordability
 
@@ -2663,13 +2666,13 @@ Why Many Pro Se Reaffirmations Are Denied
 
 Judges deny pro se reaffirmation agreements more frequently than many debtors expect. The reasons are systemic:
 
-Negative disposable income is common. Most Chapter 7 debtors have expenses that equal or exceed their income -- that is often why they filed. When Schedule J shows a negative number, the presumption of undue hardship kicks in automatically
+Negative disposable income is common. Most Chapter 7 debtors have expenses that equal or exceed their income - that is often why they filed. When Schedule J shows a negative number, the presumption of undue hardship kicks in automatically
 
 Underwater loans fail the best-interest test. If you owe $18,000 on a car worth $10,000, the judge may conclude that reaffirming $18,000 in debt for $10,000 in collateral is not in your best interest
 
 Judges have seen debtors return. Experienced bankruptcy judges have watched debtors reaffirm debts, struggle with payments, and return to bankruptcy years later. They take the gatekeeping role seriously because they have seen the consequences of rubber-stamping agreements
 
-No attorney filter. When an attorney represents the debtor, the attorney acts as a first-line filter -- theoretically refusing to certify agreements that create undue hardship. Without that filter, the judge must perform the full analysis
+No attorney filter. When an attorney represents the debtor, the attorney acts as a first-line filter - theoretically refusing to certify agreements that create undue hardship. Without that filter, the judge must perform the full analysis
 
 What If You Cannot Afford an Attorney?
 
@@ -2683,7 +2686,7 @@ Limited-scope representation. Some attorneys will represent you only for the rea
 
 Bankruptcy clinic programs. Law school bankruptcy clinics sometimes assist pro se debtors with reaffirmation decisions and hearings
 
-Even a brief consultation helps. An attorney who spends 30 minutes reviewing your reaffirmation agreement can identify risks you might miss -- whether the property is underwater, whether your budget supports the payments, and whether alternatives like redemption or surrender make more sense.
+Even a brief consultation helps. An attorney who spends 30 minutes reviewing your reaffirmation agreement can identify risks you might miss - whether the property is underwater, whether your budget supports the payments, and whether alternatives like redemption or surrender make more sense.
 
 Tips for Pro Se Debtors Facing a Reaffirmation Hearing
 
@@ -2693,7 +2696,7 @@ Know the property's value. Research the fair market value of the property you wa
 
 Prepare your explanation. Be ready to clearly explain why you need this specific property and why reaffirmation is better than the alternatives. "I need my car for work" is a start, but "I need my car for work, there is no public transit in my area, and the car is worth more than I owe" is much stronger
 
-Bring documentation. Pay stubs, a signed employment offer, a letter from your employer about guaranteed hours -- anything that supports your ability to make the payments
+Bring documentation. Pay stubs, a signed employment offer, a letter from your employer about guaranteed hours - anything that supports your ability to make the payments
 
 Be honest. If the budget is tight, say so. Judges appreciate honesty and may be more willing to work with a debtor who acknowledges the difficulty than one who overstates their financial stability
 
@@ -2711,25 +2714,25 @@ The bankruptcy judge reviews the agreement and your financial situation. The jud
 
 What does "undue hardship" mean for reaffirmation?
 
-Under Section 524(c)(6)(A)(ii), there is a presumption of undue hardship if the debtor's monthly expenses exceed monthly income -- meaning there is no disposable income available to make the reaffirmed payments. If Schedule J shows negative disposable income, the court will presume the agreement creates undue hardship. The debtor can attempt to rebut this presumption by explaining additional income sources, expected increases, or planned expense reductions, but many judges will still deny approval.
+Under Section 524(c)(6)(A)(ii), there is a presumption of undue hardship if the debtor's monthly expenses exceed monthly income - meaning there is no disposable income available to make the reaffirmed payments. If Schedule J shows negative disposable income, the court will presume the agreement creates undue hardship. The debtor can attempt to rebut this presumption by explaining additional income sources, expected increases, or planned expense reductions, but many judges will still deny approval.
 
 What if the judge denies my reaffirmation agreement?
 
-If the judge denies your reaffirmation, the debt is discharged along with your other dischargeable debts. You are no longer personally liable. However, the creditor's lien on the property survives -- they can still repossess if you stop paying. In practice, many creditors will continue accepting payments even without an approved reaffirmation agreement, but they are not required to do so. See our guide on what happens when a judge denies reaffirmation for more detail.
+If the judge denies your reaffirmation, the debt is discharged along with your other dischargeable debts. You are no longer personally liable. However, the creditor's lien on the property survives - they can still repossess if you stop paying. In practice, many creditors will continue accepting payments even without an approved reaffirmation agreement, but they are not required to do so. See our guide on what happens when a judge denies reaffirmation for more detail.
 
 Related Resources
 
 Reaffirmation Agreements Overview
 
-Judge Denied Your Reaffirmation -- What Happens Now?
+Judge Denied Your Reaffirmation - What Happens Now?
 
 Risks of Reaffirmation
 
 Ride-Through vs Reaffirmation vs Redemption
 
-Pro Se Debtors -- Resources for filing bankruptcy without an attorney
+Pro Se Debtors - Resources for filing bankruptcy without an attorney
 
-How to File Bankruptcy -- Step-by-step filing guide
+How to File Bankruptcy - Step-by-step filing guide
 
 Check Your Bankruptcy Discharge Eligibility
 
@@ -2753,10 +2756,10 @@ Further Reading & Resources
 Authority sources for deeper research on liens and reaffirmation agreements:
 
 11 U.S.C. Section 522(f)
-Cornell LII -- lien avoidance
+Cornell LII - lien avoidance
 
 11 U.S.C. Section 524(c)
-Cornell LII -- reaffirmation
+Cornell LII - reaffirmation
 
 Reaffirmation Agreement Form
 USCourts.gov Form B 240A
@@ -2852,3 +2855,75 @@ This research supports Suggestion 26-BK-3 to the Advisory Committee on Bankruptc
 Proposing automated Section 1328(f) discharge bar screening in federal bankruptcy courts
 
 This site provides general information, not legal advice. Consult a qualified attorney for your specific situation.
+
+---
+
+## Privacy Policy - reaffirmationagreement.org
+Source: https://reaffirmationagreement.org/privacy.html
+
+reaffirmationagreement.org
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
