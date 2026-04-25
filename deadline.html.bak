@@ -17,18 +17,18 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <meta content="no-referrer-when-downgrade" name="referrer"/>
-<title>Judge Denied Your Reaffirmation Agreement - What Happens Now?</title>
-<meta content="Learn about judge denied your reaffirmation agreement - what happens now? | reaffirmationagreement.org in our free 2026 guide." name="description"/>
-<meta content="judge denied reaffirmation agreement, reaffirmation denied what now, reaffirmation not approved, keep car after reaffirmation denied" name="keywords"/>
-<link href="https://reaffirmationagreement.org/judge-denied.html" rel="canonical"/>
-<meta content="Judge Denied Your Reaffirmation Agreement - What Happens Now?" property="og:title"/>
-<meta content="Learn about judge denied your reaffirmation agreement - what happens now? | reaffirmationagreement.org in our free 2026 guide." property="og:description"/>
+<title>Reaffirmation Agreement Deadline - When Must You File?</title>
+<meta content="Learn about reaffirmation agreement deadline - when must you file? | reaffirmationagreement.org in our free 2026 guide." name="description"/>
+<meta content="reaffirmation agreement deadline, when to file reaffirmation, reaffirmation before discharge, late reaffirmation agreement, 524(c)(1) deadline" name="keywords"/>
+<link href="https://reaffirmationagreement.org/deadline.html" rel="canonical"/>
+<meta content="Reaffirmation Agreement Deadline - When Must You File?" property="og:title"/>
+<meta content="Learn about reaffirmation agreement deadline - when must you file? | reaffirmationagreement.org in our free 2026 guide." property="og:description"/>
 <meta content="article" property="og:type"/>
-<meta content="https://reaffirmationagreement.org/judge-denied.html" property="og:url"/>
+<meta content="https://reaffirmationagreement.org/deadline.html" property="og:url"/>
 <meta content="reaffirmationagreement.org" property="og:site_name"/>
 <meta content="summary_large_image" name="twitter:card"/>
-<meta content="Judge Denied Your Reaffirmation Agreement - What Happens Now?" name="twitter:title"/>
-<meta content="Learn about judge denied your reaffirmation agreement - what happens now? | reaffirmationagreement.org in our free 2026 guide." name="twitter:description"/>
+<meta content="Reaffirmation Agreement Deadline - When Must You File?" name="twitter:title"/>
+<meta content="Learn about reaffirmation agreement deadline - when must you file? | reaffirmationagreement.org in our free 2026 guide." name="twitter:description"/>
 <meta content="https://reaffirmationagreement.org/og-image.svg" property="og:image"/>
 <meta content="https://reaffirmationagreement.org/og-image.svg" name="twitter:image"/>
 <link href="/favicon.svg" rel="icon" type="image/svg+xml"/>
@@ -40,7 +40,7 @@
   "@type": "BreadcrumbList",
   "itemListElement": [
     {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://reaffirmationagreement.org/"},
-    {"@type": "ListItem", "position": 2, "name": "Judge Denied Reaffirmation", "item": "https://reaffirmationagreement.org/judge-denied.html"}
+    {"@type": "ListItem", "position": 2, "name": "Reaffirmation Deadline", "item": "https://reaffirmationagreement.org/deadline.html"}
   ]
 }
 </script>
@@ -51,34 +51,26 @@
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "Can the creditor repossess my car if the judge denies reaffirmation?",
+      "name": "When is the deadline to file a reaffirmation agreement?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Technically yes - the creditor's lien survives even though your personal liability is discharged. The creditor has the legal right to repossess the collateral. However, in practice, many creditors will not repossess if you continue making on-time payments. Repossessing a vehicle from a current borrower costs money, and the creditor would rather receive payments than auction a depreciating asset."
+        "text": "Under Section 524(c)(1), the reaffirmation agreement must be made before the granting of the discharge. In a typical Chapter 7 case, discharge is entered approximately 60 to 90 days after the Section 341 meeting of creditors. The exact date varies by court and case, but you should treat the discharge date as a hard deadline. Once the discharge order is entered, it is generally too late to reaffirm."
       }
     },
     {
       "@type": "Question",
-      "name": "Will my credit be affected if reaffirmation is denied?",
+      "name": "Can I file a reaffirmation agreement after discharge?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Some creditors will not report your on-time payments to credit bureaus if there is no active reaffirmation agreement. This varies by creditor. The bankruptcy itself will appear on your credit report regardless. If credit rebuilding is a priority, ask the creditor directly whether they will report payments without a reaffirmation agreement."
+        "text": "Generally no. Section 524(c)(1) requires the agreement to be made before discharge. Most courts strictly enforce this deadline. A small number of courts have allowed late reaffirmation in narrow circumstances - the Ninth Circuit's Jamo decision is the most cited example - but this is the exception, not the rule. If you have missed the deadline, consult a local bankruptcy attorney immediately to determine whether any exception applies in your jurisdiction."
       }
     },
     {
       "@type": "Question",
-      "name": "Can I ask the judge to reconsider a denied reaffirmation?",
+      "name": "What happens if I miss the reaffirmation deadline?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "In some cases, yes. If your financial circumstances have changed - for example, you received a raise, reduced your expenses, or can present new evidence that the agreement does not create undue hardship - you may be able to file a new reaffirmation agreement and request a new hearing. However, the deadline matters: the agreement must be made before discharge is entered."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What is the difference between the debt being discharged and the lien surviving?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "The discharge eliminates your personal liability - the creditor cannot sue you for the money. The lien is a separate legal interest in the property itself. Even after discharge, the creditor's lien gives them the right to repossess or foreclose if you stop paying. Think of it this way: you do not owe the money, but they still have a claim on the property."
+        "text": "If the discharge has been entered and no reaffirmation agreement was filed, the debt is discharged. Your personal liability is eliminated. However, the creditor's lien survives. You can continue making payments voluntarily, and many creditors will accept them. But you will not have a formal reaffirmation agreement, which means some creditors may not report your payments to credit bureaus, and the creditor retains the right to repossess the collateral by enforcing their lien."
       }
     }
   ]
@@ -93,8 +85,8 @@
   "@graph": [
     {
       "@type": "Article",
-      "headline": "Judge Denied Your Reaffirmation Agreement",
-      "description": "What happens when a bankruptcy judge denies your reaffirmation agreement. Your personal liability is discharged, but the lien survives. Learn your options for k",
+      "headline": "Reaffirmation Agreement Deadline",
+      "description": "Reaffirmation agreements must be made before your discharge is entered. Learn the key deadlines under Section 524(c)(1), the typical Chapter 7 timeline, and wha",
       "author": {
         "@type": "Organization",
         "name": "Open Bankruptcy Project"
@@ -106,12 +98,68 @@
       },
       "datePublished": "2026-03-28",
       "dateModified": "2026-03-29",
-      "mainEntityOfPage": "https://reaffirmationagreement.org/judge-denied.html"
+      "mainEntityOfPage": "https://reaffirmationagreement.org/deadline.html"
+    },
+    {
+      "@type": "HowTo",
+      "name": "Reaffirmation Agreement Deadline",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "text": "window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n  gtag('config', 'G-FTWLM223G7');\n\n\n\nReaffirmation Agreement Deadline - When Must Yo"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "text": "Days 21-40: Section 341 Meeting of Creditors\n        The 341 meeting is typically scheduled 21 to 40 days after the petition is filed. You answer questions under oath from the Chapter 7 trustee. Credi"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "text": "Days 30-45: Perform Your Stated Intention\n        Under Section 521(a)(2)(B), you must perform your stated intention within 30 days after the first date set for the 341 meeting. If you stated you woul"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "text": "Day 45 After 341: Reaffirmation Hearing (If Required)\n        If you are pro se (no attorney) or if there is a presumption of undue hardship, the court schedules a reaffirmation hearing. This typicall"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "text": "Day 60 After 341: Discharge Entered\n        In a routine Chapter 7 case with no objections, discharge is typically entered approximately 60 days after the conclusion of the 341 meeting. This is the ha"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 6,
+          "text": "After Discharge: Too Late\n        Once the discharge order is entered, the reaffirmation window is closed in most jurisdictions. Any debt you intended to reaffirm but did not is now discharged."
+        },
+        {
+          "@type": "HowToStep",
+          "position": 7,
+          "text": "Surrender: Give the property back to the creditor"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 8,
+          "text": "Reaffirm: Keep the debt and the property"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 9,
+          "text": "Redeem: Pay the current value and keep the property free of the lien"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 10,
+          "text": "Start early. Begin the reaffirmation process as soon as you file the Statement of Intention. Contact the creditor, request the reaffirmation agreement, and begin reviewing the terms. Do not wait until"
+        }
+      ]
     },
     {
       "@type": "WebPage",
-      "name": "Judge Denied Your Reaffirmation Agreement",
-      "url": "https://reaffirmationagreement.org/judge-denied.html",
+      "name": "Reaffirmation Agreement Deadline",
+      "url": "https://reaffirmationagreement.org/deadline.html",
       "speakable": {
         "@type": "SpeakableSpecification",
         "cssSelector": [
@@ -178,6 +226,12 @@
   .warning-box { background: #21262d; border-left: 3px solid var(--red); padding: 1rem 1.25rem; border-radius: 0 6px 6px 0; margin: 1rem 0; }
   .warning-box p { margin-bottom: 0.5rem; }
   .warning-box p:last-child { margin-bottom: 0; }
+  .timeline { list-style: none; margin: 1rem 0; padding: 0; }
+  .timeline li { position: relative; padding: 0 0 1.5rem 2rem; border-left: 2px solid var(--border); }
+  .timeline li:last-child { border-left: 2px solid transparent; padding-bottom: 0; }
+  .timeline li::before { content: ''; position: absolute; left: -7px; top: 4px; width: 12px; height: 12px; border-radius: 50%; background: var(--accent); }
+  .timeline .label { color: var(--accent); font-weight: 600; font-size: 0.95rem; }
+  .timeline .desc { color: var(--text); font-size: 0.9rem; margin-top: 0.25rem; }
   .cta-box { background: var(--surface); border: 2px solid var(--accent); border-radius: 8px; padding: 2rem; margin: 2rem 0; text-align: center; }
   .cta-box h3 { color: #f0f6fc; font-size: 1.2rem; margin-bottom: 0.75rem; }
   .cta-box p { color: var(--text-muted); font-size: 0.95rem; margin-bottom: 1rem; }
@@ -204,29 +258,8 @@
     .cta-box .cta-links { flex-direction: column; gap: 0.75rem; }
   }
 </style>
-<link href="https://reaffirmationagreement.org/judge-denied.html" hreflang="en" rel="alternate"/>
-<link href="https://reaffirmationagreement.org/judge-denied-es.html" hreflang="es" rel="alternate"/>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "NonprofitOrganization",
-  "name": "Open Bankruptcy Project",
-  "alternateName": "OBP",
-  "url": "https://openbankruptcyproject.org",
-  "email": "info@openbankruptcyproject.org",
-  "taxID": "41-5159631",
-  "nonprofitStatus": "Nonprofit501c3",
-  "description": "The Open Bankruptcy Project is a 501(c)(3) nonprofit providing free tools, research, and consumer guides to help people navigate the federal bankruptcy system. We also conduct and publish empirical research on how the system actually works for consumers and share findings with rule-making bodies, regulators, and the public.",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "1000 W 100th St",
-    "addressLocality": "Kansas City",
-    "addressRegion": "MO",
-    "postalCode": "64114",
-    "addressCountry": "US"
-  }
-}
-</script>
+<link href="https://reaffirmationagreement.org/deadline.html" hreflang="en" rel="alternate"/>
+<link href="https://reaffirmationagreement.org/deadline-es.html" hreflang="es" rel="alternate"/>
 </head>
 <body>
 <a class="skip-link" href="#main-content">Skip to main content</a>
@@ -243,128 +276,116 @@
 </div>
 </nav>
 <header>
-<h1>Judge <span class="accent">Denied</span> Your Reaffirmation Agreement</h1>
-<p class="subtitle">What happens now - and why it might actually be good news</p>
+<h1>Reaffirmation Agreement <span class="accent">Deadline</span></h1>
+<p class="subtitle">When you must file - and what happens if you miss the window</p>
 </header>
 <div aria-label="Breadcrumb" class="breadcrumb">
-<a href="/">Home</a> › Judge Denied Reaffirmation
+<a href="/">Home</a> › Reaffirmation Deadline
 </div>
 <main id="main-content">
 <div class="content-section">
-<h2>Why the Judge Said No</h2>
-<p>If a bankruptcy judge has denied your reaffirmation agreement, the first thing to understand is that this is not a punishment. Judges deny reaffirmation agreements to protect debtors from taking on obligations they cannot afford. The denial means the judge concluded that the agreement would either impose an <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Undue Hardship in Bankruptcy - Open Bankruptcy Project">undue hardship</a> on you or was not in your best interest - or both.</p>
-<p>The most common reasons judges deny reaffirmation agreements:</p>
-<ul>
-<li><strong>Your expenses exceed your income.</strong> If Schedule J shows that your monthly expenses are equal to or greater than your monthly income, there is a presumption of <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Undue Hardship in Bankruptcy - Open Bankruptcy Project">undue hardship</a> under <a href="https://524injunction.com" rel="noopener" target="_blank" title="Section 524 Discharge Injunction - Open Bankruptcy Project">Section 524</a>(c)(6)(A)(ii). This is the single most common reason for denial</li>
-<li><strong>You are underwater on the loan.</strong> If you owe $16,000 on a car worth $9,000, the judge may find that reaffirming the full $16,000 is not in your best interest when the collateral is worth far less</li>
-<li><strong>The interest rate is high.</strong> Some reaffirmation agreements carry interest rates that the judge views as exploitative, particularly when combined with negative equity</li>
-<li><strong>You filed <a href="https://prosebankruptcy.org/" title="pro se">pro se</a>.</strong> When you are not represented by an attorney, the court must independently evaluate the agreement. <a href="https://filebankruptcywithoutlawyer.com/" title="file without a lawyer">Without an attorney</a>'s certification that the agreement does not create <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Undue Hardship in Bankruptcy - Open Bankruptcy Project">undue hardship</a>, the judge must make that determination - and many judges err on the side of protection</li>
-</ul>
+<h2>The Hard Deadline: Before Discharge</h2>
+<p><a href="https://524injunction.com" rel="noopener" target="_blank" title="Section 524 Discharge Injunction - Open Bankruptcy Project">Section 524</a>(c)(1) of the Bankruptcy Code is clear: a reaffirmation agreement must be "made before the granting of the <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>." This is not a flexible guideline - it is a statutory requirement. Once your <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> order is entered by the bankruptcy court, the window for reaffirmation closes.</p>
+<p>The discharge eliminates your personal liability for dischargeable debts. A reaffirmation agreement is an exception to that discharge - a voluntary agreement to remain liable for a specific debt. The statute requires that this exception be created before the discharge itself, not after.</p>
+<p>This means the deadline is not 30 days after filing, or 60 days after the <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">341 meeting</a>, or any other fixed period. The deadline is the entry of the discharge order, which varies from case to case. Understanding the typical <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> timeline is essential to ensuring you do not miss the window.</p>
 </div>
 <div class="content-section">
-<h2>The Legal Effect of Denial</h2>
-<p>When a judge denies your reaffirmation agreement, two things happen simultaneously:</p>
-<h3>1. Your Personal Liability Is Discharged</h3>
-<p>The debt is treated like any other dischargeable debt in your <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> case. When your <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a> order is entered, your personal obligation to pay this debt is permanently eliminated. The creditor cannot sue you for the balance. They cannot garnish your wages. They cannot call you demanding payment. The <a href="https://dischargeinjunction.com">discharge injunction</a> under <a href="https://524injunction.com" rel="noopener" target="_blank" title="Section 524 Discharge Injunction - Open Bankruptcy Project">Section 524</a>(a)(2) applies fully to this debt.</p>
-<h3>2. The Lien Survives</h3>
-<p>Here is the critical nuance: while your personal liability is gone, the creditor's lien on the property itself is not affected by the bankruptcy <a href="https://bankruptcydischarge.org/" title="discharge">discharge</a>. A discharge eliminates in personam liability (your personal obligation to pay), but it does not eliminate in rem rights (the creditor's legal interest in the specific property).</p>
-<p>In practical terms, this means:</p>
-<ul>
-<li>If you have a car loan, the lender still has a lien on the car. They can repossess the car if you stop paying</li>
-<li>If you have a mortgage, the lender still has a lien on the house. They can foreclose if you stop paying</li>
-<li>But - and this is the key difference from reaffirmation - if they repossess or foreclose and the sale does not cover the full balance, they cannot come after you for the deficiency. The deficiency is discharged</li>
+<h2>The Typical Chapter 7 Timeline</h2>
+<p>While every case is different, here is the general timeline for a standard <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> case with no complications:</p>
+<ul class="timeline">
+<li>
+<div class="label">Day 0: Petition Filed</div>
+<div class="desc">Your Chapter 7 case begins. The <a href="https://automaticstay.org/" title="automatic stay">automatic stay</a> takes effect immediately. Within 30 days, you must file your Statement of Intention (Official Form 108) declaring what you intend to do with secured property - surrender, reaffirm, or redeem.</div>
+</li>
+<li>
+<div class="label">Days 21-40: <a href="https://www.law.cornell.edu/uscode/text/11/341" rel="noopener" target="_blank">Section 341</a> <a href="https://341meeting.org/" title="341 meeting">Meeting of Creditors</a></div>
+<div class="desc">The <a href="https://341meeting.org">341 meeting</a> is typically scheduled 21 to 40 days after the petition is filed. You answer questions under oath from the Chapter 7 trustee. Creditors may attend but rarely do. This is the starting point for several important deadlines.</div>
+</li>
+<li>
+<div class="label">Days 30-45: Perform Your Stated Intention</div>
+<div class="desc">Under Section 521(a)(2)(B), you must perform your stated intention within 30 days after the first date set for the <a href="https://341meeting.org/" title="341 meeting">341 meeting</a>. If you stated you would reaffirm, this is your target window for getting the agreement signed and filed. However, this deadline relates to the Statement of Intention, not the reaffirmation itself - the actual hard deadline for reaffirmation is the discharge date.</div>
+</li>
+<li>
+<div class="label">Day 45 After 341: Reaffirmation Hearing (If Required)</div>
+<div class="desc">If you are <a href="https://prosebankruptcy.org/" title="pro se">pro se</a> (no attorney) or if there is a presumption of undue <a href="https://bankruptcyhardship.org/" title="hardship discharge">hardship</a>, the court schedules a reaffirmation hearing. This typically occurs within 45 days of the 341 meeting, before the discharge date.</div>
+</li>
+<li>
+<div class="label">Day 60 After 341: Discharge Entered</div>
+<div class="desc">In a routine Chapter 7 case with no objections, discharge is typically entered approximately 60 days after the conclusion of the 341 meeting. This is the hard deadline for reaffirmation. Some cases take longer - objections, continued hearings, or pending motions can delay discharge - but 60 days is the standard.</div>
+</li>
+<li>
+<div class="label">After Discharge: Too Late</div>
+<div class="desc">Once the discharge order is entered, the reaffirmation window is closed in most jurisdictions. Any debt you intended to reaffirm but did not is now discharged.</div>
+</li>
 </ul>
 <div class="green-box">
-<p><strong>This is actually a form of protection.</strong> Without reaffirmation, the worst case is that you lose the property. With reaffirmation, the worst case is that you lose the property AND owe a deficiency balance that could follow you for years.</p>
+<p><strong>Key insight:</strong> In a typical Chapter 7 case, you have roughly 90 to 120 days from filing to discharge. But the practical window for reaffirmation is much shorter - you should aim to have the agreement signed, filed, and (if required) approved by the court well before the discharge date.</p>
 </div>
 </div>
 <div class="content-section">
-<h2>Your Options After Denial</h2>
-<h3>Option 1: Keep Paying Voluntarily</h3>
-<p>This is what most debtors do, and it works more often than you might expect. Even without a reaffirmation agreement, you can continue making your regular monthly payments. Many creditors will accept the payments and leave the property alone.</p>
-<p>Why would a creditor accept payments without a reaffirmation agreement? Because the alternative - repossessing a car or foreclosing on a house - is expensive. The creditor would rather receive your $400/month car payment than spend $1,500 on repossession, towing, storage, and auction fees only to sell the vehicle for less than the loan balance.</p>
-<p>The practical reality in most cases:</p>
+<h2>Section 521(a)(2): The Statement of Intention</h2>
+<p>Separate from the reaffirmation deadline itself, Section 521(a)(2) requires you to file a Statement of Intention within 30 days of filing your petition. This form (Official Form 108) tells the court and creditors what you intend to do with each piece of secured property:</p>
 <ul>
-<li><strong>Auto lenders:</strong> Most major auto lenders (Capital One, Ally, Wells Fargo, Chase) will continue accepting payments without reaffirmation if you remain current. Some lenders, however, have policies to repossess after discharge regardless - Ford Motor Credit and some credit unions have been known to take this approach</li>
-<li><strong>Mortgage servicers:</strong> Nearly all mortgage servicers will continue accepting payments without reaffirmation. Foreclosing on a current borrower is expensive and generates negative publicity. The overwhelming majority of servicers will not foreclose solely because reaffirmation was denied</li>
+<li><strong>Surrender:</strong> Give the property back to the creditor</li>
+<li><strong>Reaffirm:</strong> Keep the debt and the property</li>
+<li><strong>Redeem:</strong> Pay the current value and keep the property free of the lien</li>
 </ul>
+<p>Section 521(a)(2)(B) further requires you to perform your stated intention within 30 days after the first date set for the <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">341 meeting</a>. If you stated you would reaffirm but fail to do so, Section 521(a)(6) provides that the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> terminates with respect to that property. This means the creditor could take action on the collateral without seeking court permission.</p>
 <div class="warning-box">
-<p><strong>The risk:</strong> The creditor is not legally required to accept your payments or leave the collateral alone. Without a reaffirmation agreement, they have the legal right to repossess or foreclose at any time by enforcing their lien. Most will not do so if you are current, but some will.</p>
-</div>
-<h3>Option 2: Surrender the Property</h3>
-<p>If you were on the fence about reaffirmation, the judge's denial might be the push you needed to let the property go. Surrender eliminates the lien and the debt entirely. You walk away clean.</p>
-<p>This makes sense when:</p>
-<ul>
-<li>The loan balance significantly exceeds the property value</li>
-<li>The payments are a stretch in your post-bankruptcy budget</li>
-<li>The property can be replaced cheaply (a reliable used car for a fraction of the loan balance)</li>
-<li>The creditor has a reputation for repossessing after denied reaffirmation</li>
-</ul>
-<h3>Option 3: Negotiate Modified Terms</h3>
-<p>In some cases, the denial creates leverage for negotiation. The creditor knows that without reaffirmation, you have no personal liability. If you stop paying, they get the collateral back - but nothing else. Some creditors will offer modified terms to keep you paying:</p>
-<ul>
-<li>Reduced interest rate</li>
-<li>Extended loan term (lower monthly payment)</li>
-<li>Reduced principal balance to match the collateral value</li>
-</ul>
-<p>This is more common with auto lenders than mortgage servicers. If the creditor offers modified terms, you could potentially enter into a new reaffirmation agreement with better numbers - one that the judge might approve. But the timing matters: the agreement must be made before discharge is entered.</p>
-<h3>Option 4: Redeem the Property (Cars Only)</h3>
-<p>If you have access to funds, you can file a motion to redeem the property under Section 722. Redemption lets you pay the current replacement value of tangible personal property in a lump sum, keep the property free and clear, and discharge the remaining balance. This only applies to personal property - not real estate.</p>
-<p>Redemption lending companies exist to finance this lump sum, though their interest rates tend to be high (18% to 24%). Even with a high-interest redemption loan, the total cost can be significantly less than the original loan if the property has depreciated substantially.</p>
-</div>
-<div class="content-section">
-<h2>The Credit Reporting Question</h2>
-<p>One concern debtors often have after reaffirmation denial is the impact on credit rebuilding. Here is the reality:</p>
-<ul>
-<li><strong>Some creditors will not report payments without reaffirmation.</strong> Without an active reaffirmation agreement, some auto lenders treat the account as discharged in bankruptcy and stop reporting to credit bureaus entirely - even if you are making on-time payments</li>
-<li><strong>Other creditors will report.</strong> Not all creditors have this policy. Some will continue reporting your payment history regardless of reaffirmation status</li>
-<li><strong>The bankruptcy stays on your report regardless.</strong> The <a href="https://whatischapter7.com/" title="Chapter 7">Chapter 7</a> filing will appear on your credit report for 10 years whether or not any debts are reaffirmed</li>
-<li><strong>Other credit-building strategies exist.</strong> Secured credit cards, credit-builder loans, and becoming an authorized user on a family member's account can all help <a href="https://rebuildcreditafterbankruptcy.com/" title="rebuild credit">rebuild credit</a> without reaffirmation</li>
-</ul>
-<div class="green-box">
-<p><strong>Perspective:</strong> Reaffirming a debt solely for credit reporting purposes is risky. You are taking on personal liability for a debt - with all the deficiency risk that entails - in exchange for a credit reporting benefit that may be modest compared to alternatives.</p>
+<p><strong>Two separate deadlines, both important:</strong> The Statement of Intention deadline (30 days after filing) and the performance deadline (30 days after the <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">341 meeting</a>) are different from the reaffirmation-before-discharge deadline. Missing the Statement of Intention deadline or the performance deadline can have immediate practical consequences - including loss of the <a href="https://automaticstay.org" rel="noopener" target="_blank" title="Automatic Stay in Bankruptcy - Open Bankruptcy Project">automatic stay</a> - even if the discharge deadline has not yet passed.</p>
 </div>
 </div>
 <div class="content-section">
-<h2>What Creditors Actually Do in Practice</h2>
-<p>The gap between what creditors can legally do and what they actually do is significant. After a reaffirmation denial:</p>
-<ul>
-<li><strong>Most auto lenders accept payments from current borrowers.</strong> The internal cost of repossession, combined with the loss from auctioning a depreciating vehicle, makes it uneconomical to repossess from someone who is paying on time</li>
-<li><strong>Virtually all mortgage servicers accept payments.</strong> Foreclosure is expensive, slow, and generates negative publicity. No major mortgage servicer routinely forecloses on current borrowers solely because reaffirmation was denied</li>
-<li><strong>Some creditors send threatening letters.</strong> You may receive correspondence suggesting that failure to reaffirm means the property will be repossessed. In many cases, this is a negotiation tactic rather than a firm intention. However, take any such communication seriously and consult with an attorney if you receive one</li>
-<li><strong>Credit unions tend to be stricter.</strong> Credit unions are more likely than large national lenders to enforce their lien after a reaffirmation denial. If your auto loan is through a credit union, be especially cautious and inquire directly about their policy</li>
-</ul>
+<h2>What Happens If You Miss the Deadline</h2>
+<p>If the discharge is entered without a reaffirmation agreement on file, the consequences are significant but not necessarily catastrophic:</p>
+<h3>The Debt Is Discharged</h3>
+<p>Your personal liability for the debt is permanently eliminated. The creditor cannot sue you, garnish your wages, or otherwise collect the debt from you personally. The <a href="https://dischargeinjunction.com">discharge injunction</a> under <a href="https://524injunction.com" rel="noopener" target="_blank" title="Section 524 Discharge Injunction - Open Bankruptcy Project">Section 524</a>(a)(2) protects you.</p>
+<h3>The Lien Survives</h3>
+<p>The creditor's lien on the property is not affected by the discharge. A Chapter 7 discharge eliminates personal liability but does not strip liens (unlike <a href="https://lienstripping.org">Chapter 13 lien stripping</a> in certain circumstances). The creditor can enforce the lien by repossessing or foreclosing on the collateral.</p>
+<h3>You Can Still Pay Voluntarily</h3>
+<p>Nothing prevents you from continuing to make payments on the secured debt after discharge. Many debtors do this, and most creditors will accept the payments. This is sometimes called an informal or "de facto" <a href="/ride-through.html">ride-through</a>. You keep the property as long as you keep paying, but you have no personal liability if you stop.</p>
+<h3>Credit Reporting May Be Affected</h3>
+<p>Some creditors stop reporting payment activity to credit bureaus for debts without reaffirmation agreements. This means your on-time payments may not appear on your credit report, limiting the credit-rebuilding benefit.</p>
 </div>
 <div class="content-section">
-<h2>Can You Try Again?</h2>
-<p>In some circumstances, you may be able to submit a new reaffirmation agreement:</p>
-<ul>
-<li><strong>Before discharge:</strong> If your financial situation has improved since the hearing - you got a better-paying job, reduced your expenses, or can present new evidence - you may be able to file a new agreement and request a new hearing. The key deadline is that the agreement must be made before the discharge is entered</li>
-<li><strong>Modified terms:</strong> If the creditor offers better terms (lower balance, reduced interest rate), the improved numbers might satisfy the <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Undue Hardship in Bankruptcy - Open Bankruptcy Project">undue hardship</a> test and the best-interest test</li>
-<li><strong>After discharge:</strong> Generally, a reaffirmation agreement cannot be entered after discharge. Some courts recognize narrow exceptions, but this is rare and jurisdiction-dependent</li>
-</ul>
+<h2>Can You Reaffirm After Discharge? The Jamo Exception</h2>
+<p>The general rule is firm: no reaffirmation after discharge. But a small number of courts have recognized narrow exceptions.</p>
+<p>The most frequently cited is the Ninth Circuit's decision in <em>In re Jamo</em> (283 F.3d 392, 1st Cir. 2002), which held that a bankruptcy court has discretion to allow a late-filed reaffirmation agreement when the delay was due to excusable neglect and the creditor consents. Some courts within the Ninth Circuit and a few other jurisdictions have followed this approach.</p>
+<p>However, the majority of courts reject late reaffirmation. The statutory language - "before the granting of the discharge" - is treated as a bright-line rule that cannot be extended. Courts in the Fourth, Sixth, and Seventh Circuits, among others, have held that the deadline is absolute.</p>
+<div class="warning-box">
+<p><strong>Do not rely on Jamo.</strong> Even in jurisdictions where the exception exists, it is narrowly applied and requires showing excusable neglect. The safest approach is to treat the discharge date as an absolute deadline and ensure the reaffirmation agreement is filed well in advance.</p>
+</div>
+</div>
+<div class="content-section">
+<h2>Practical Tips for Meeting the Deadline</h2>
+<ol>
+<li><strong>Start early.</strong> Begin the reaffirmation process as soon as you file the Statement of Intention. Contact the creditor, request the reaffirmation agreement, and begin reviewing the terms. Do not wait until the last minute</li>
+<li><strong>Know your discharge date.</strong> Check your court's electronic filing system (CM/ECF or <a href="https://1328f.com/glossary.html#pacer" title="PACER">PACER</a>) regularly. Your attorney should track this, but if you are <a href="https://prosebankruptcy.org/" title="pro se">pro se</a>, monitor it yourself. The clerk's office can also provide the expected discharge date</li>
+<li><strong>Build in time for the hearing.</strong> If you are pro se, the court must hold a reaffirmation hearing. This needs to be scheduled before the discharge date, and courts have limited availability. File the agreement early enough that the clerk can schedule a hearing in time</li>
+<li><strong>File the agreement, even if the hearing is pending.</strong> The agreement must be "made" before discharge - which courts interpret as signed and filed with the court. Even if the hearing has not yet occurred, getting the agreement on the docket preserves your position</li>
+<li><strong>Communicate with the creditor.</strong> Some creditors are slow to send reaffirmation agreements or to sign them after you return them. Follow up persistently. A creditor's delay should not cause you to miss the deadline</li>
+<li><strong>Ask your attorney to monitor the timeline.</strong> If you have an attorney, ensure they are tracking both the performance deadline (30 days after the <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">341 meeting</a>) and the discharge deadline. Many attorneys handle this routinely, but communication prevents surprises</li>
+</ol>
 </div>
 <div class="content-section">
 <h2>Frequently Asked Questions</h2>
-<h3>Can the creditor repossess my car if the judge denies reaffirmation?</h3>
-<p>Technically yes - the creditor's lien survives even though your personal liability is discharged. The creditor has the legal right to repossess the collateral. However, in practice, many creditors will not repossess if you continue making on-time payments. Repossessing a vehicle from a current borrower costs money, and the creditor would rather receive payments than auction a depreciating asset.</p>
-<h3>Will my credit be affected if reaffirmation is denied?</h3>
-<p>Some creditors will not report your on-time payments to credit bureaus if there is no active reaffirmation agreement. This varies by creditor. The bankruptcy itself will appear on your credit report regardless. If credit rebuilding is a priority, ask the creditor directly whether they will report payments without a reaffirmation agreement.</p>
-<h3>Can I ask the judge to reconsider a denied reaffirmation?</h3>
-<p>In some cases, yes. If your financial circumstances have changed - for example, you received a raise, reduced your expenses, or can present new evidence that the agreement does not create <a href="https://bankruptcyhardship.org" rel="noopener" target="_blank" title="Undue Hardship in Bankruptcy - Open Bankruptcy Project">undue hardship</a> - you may be able to file a new reaffirmation agreement and request a new hearing. However, the deadline matters: the agreement must be made before discharge is entered.</p>
-<h3>What is the difference between the debt being discharged and the lien surviving?</h3>
-<p>The discharge eliminates your personal liability - the creditor cannot sue you for the money. The lien is a separate legal interest in the property itself. Even after discharge, the creditor's lien gives them the right to repossess or foreclose if you stop paying. Think of it this way: you do not owe the money, but they still have a claim on the property.</p>
+<h3>When is the deadline to file a reaffirmation agreement?</h3>
+<p>Under <a href="https://524injunction.com" rel="noopener" target="_blank" title="Section 524 Discharge Injunction - Open Bankruptcy Project">Section 524</a>(c)(1), the reaffirmation agreement must be made before the granting of the discharge. In a typical Chapter 7 case, discharge is entered approximately 60 to 90 days after the Section 341 <a href="https://341meeting.org" rel="noopener" target="_blank" title="341 Meeting of Creditors - Open Bankruptcy Project">meeting of creditors</a>. The exact date varies by court and case, but you should treat the discharge date as a hard deadline. Once the discharge order is entered, it is generally too late to reaffirm.</p>
+<h3>Can I file a reaffirmation agreement after discharge?</h3>
+<p>Generally no. <a href="https://524injunction.com" rel="noopener" target="_blank" title="Section 524 Discharge Injunction - Open Bankruptcy Project">Section 524</a>(c)(1) requires the agreement to be made before discharge. Most courts strictly enforce this deadline. A small number of courts have allowed late reaffirmation in narrow circumstances - the <em>Jamo</em> decision is the most cited example - but this is the exception, not the rule. If you have missed the deadline, consult a local bankruptcy attorney immediately to determine whether any exception applies in your jurisdiction.</p>
+<h3>What happens if I miss the reaffirmation deadline?</h3>
+<p>If the discharge has been entered and no reaffirmation agreement was filed, the debt is discharged. Your personal liability is eliminated. However, the creditor's lien survives. You can continue making payments voluntarily, and many creditors will accept them. But you will not have a formal reaffirmation agreement, which means some creditors may not report your payments to credit bureaus, and the creditor retains the right to repossess the collateral by enforcing their lien.</p>
 </div>
 <div class="content-section">
 <h2>Related Resources</h2>
 <ul>
 <li><a href="/">Reaffirmation Agreements Overview</a></li>
-<li><a href="/without-attorney.html">Reaffirmation Without an Attorney</a></li>
-<li><a href="/risks.html">Risks of Reaffirmation</a></li>
-<li><a href="/ride-through.html">Ride-Through vs Reaffirmation vs Redemption</a></li>
-<li><a href="https://dischargeinjunction.com">The Discharge Injunction</a> - How <a href="https://524injunction.com" rel="noopener" target="_blank" title="Section 524 Discharge Injunction - Open Bankruptcy Project">Section 524</a> permanently bars creditor collection</li>
-<li><a href="https://lienstripping.org">Lien Stripping</a> - How <a href="https://chapter7vs13.org/" title="Chapter 13">Chapter 13</a> can eliminate junior liens on your home</li>
-<li><a href="https://whatischapter7.com">What Is Chapter 7?</a> - Plain-English guide to Chapter 7 liquidation bankruptcy</li>
+<li><a href="/rescission.html">Rescinding a Reaffirmation Agreement</a> - Canceling within 60 days of filing</li>
+<li><a href="/without-attorney.html">Reaffirmation Without an Attorney</a> - Court approval requirements for pro se debtors</li>
+<li><a href="/when-to-say-no.html">When to Say No to Reaffirmation</a></li>
+<li><a href="https://341meeting.org">The 341 Meeting of Creditors</a> - What to expect at the 341 hearing</li>
+<li><a href="https://whatischapter7.com">What Is Chapter 7?</a> - Complete guide to Chapter 7 bankruptcy</li>
+<li><a href="https://dischargeinjunction.com">The Discharge Injunction</a> - How <a href="https://524injunction.com" rel="noopener" target="_blank" title="Section 524 Discharge Injunction - Open Bankruptcy Project">Section 524</a> protects you after discharge</li>
 </ul>
 </div>
 <div class="cta-box">
@@ -435,8 +456,8 @@
 <ul style="list-style:none;padding:0;margin:0">
 <li style="margin-bottom:0.5rem"><a href="https://chapter7vs13.org/?utm_source=reaffirmationagreement.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Chapter 7 vs. Chapter 13 Comparison</a> <span style="color:#7d8590;font-size:0.8rem">-- chapter7vs13.org</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://bankruptcymeanstest.org/?utm_source=reaffirmationagreement.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Bankruptcy Means Test by State</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcymeanstest.org</span></li>
+<li style="margin-bottom:0.5rem"><a href="https://727a8.com/?utm_source=reaffirmationagreement.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Section 727(a)(8) Discharge Waiting Period</a> <span style="color:#7d8590;font-size:0.8rem">-- 727a8.com</span></li>
 <li style="margin-bottom:0.5rem"><a href="https://bankruptcystudentloans.org/?utm_source=reaffirmationagreement.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">Student Loans in Bankruptcy</a> <span style="color:#7d8590;font-size:0.8rem">-- bankruptcystudentloans.org</span></li>
-<li style="margin-bottom:0.5rem"><a href="https://1099cdebt.com/?utm_source=reaffirmationagreement.org&amp;utm_medium=boost-top10&amp;utm_campaign=btn-network" style="color:#58a6ff;text-decoration:none;font-size:0.9rem">1099-C Cancellation of Debt Tax Guide</a> <span style="color:#7d8590;font-size:0.8rem">-- 1099cdebt.com</span></li>
 </ul>
 </div>
 <!-- BTN:FOOTER:START -->
@@ -447,14 +468,14 @@
 <div class="links">
 <a href="https://1328f.com?utm_source=reaffirmationagreement.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">1328f.com</a>
 <a href="https://1328f.org?utm_source=reaffirmationagreement.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">1328f.org</a>
-<a href="https://dischargeinjunction.com?utm_source=reaffirmationagreement.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">dischargeinjunction.com</a>
-<a href="https://whatischapter7.com?utm_source=reaffirmationagreement.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">whatischapter7.com</a>
-<a href="https://lienstripping.org?utm_source=reaffirmationagreement.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">lienstripping.org</a>
 <a href="https://341meeting.org?utm_source=reaffirmationagreement.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">341meeting.org</a>
+<a href="https://whatischapter7.com?utm_source=reaffirmationagreement.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">whatischapter7.com</a>
+<a href="https://dischargeinjunction.com?utm_source=reaffirmationagreement.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">dischargeinjunction.com</a>
+<a href="https://lienstripping.org?utm_source=reaffirmationagreement.org&amp;utm_medium=referral&amp;utm_campaign=btn-network">lienstripping.org</a>
 <a href="https://github.com/sponsors/openbankruptcyproject" onmouseout="this.style.background='#bf3989'" onmouseover="this.style.background='#9e2c6f'" style="display:inline-block;background:#bf3989;color:#fff;padding:0.6rem 1.8rem;border-radius:6px;font-weight:600;font-size:0.95rem;text-decoration:none;transition:background 0.2s">♥ Sponsor</a>
 <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
 </div>
-<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) public charity (EIN 41-5159631).</p>
+<p class="disclaimer">This site provides general information only and does not constitute legal advice. No attorney-client relationship is created. Consult a licensed attorney for advice on your specific situation.<br/>A project of the <strong>Open Bankruptcy Project</strong>, a 501(c)(3) nonprofit.</p>
 <p style="margin-top:0.75rem;font-size:0.8rem"><a href="https://openbankruptcyproject.org/privacy.html?utm_source=reaffirmationagreement.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Privacy</a> | <a href="https://openbankruptcyproject.org/terms.html?utm_source=reaffirmationagreement.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Terms</a> | <a href="https://openbankruptcyproject.org?utm_source=reaffirmationagreement.org&amp;utm_medium=referral&amp;utm_campaign=btn-network" style="color:#7d8590;text-decoration:none">Open Bankruptcy Project</a></p>
 </footer>
 <!-- BTN:FOOTER:END -->
